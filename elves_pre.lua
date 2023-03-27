@@ -8474,24 +8474,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[2644] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "링",
-		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "The Sign",
-		identifiedResourceName = "더사인_",
-		identifiedDescriptionName = {
-			"A captivatingly beautiful artifact rewarded by the gods to a chosen warrior.",
-			"However, it seems to be more than just a voucher that grants entrance into Valhalla...",
-			"Class:^6666CC Accessory^000000",
-			"Defense:^0000FF 0^000000",
-			"Level Requirement:^009900 1^000000",
-			"Jobs:^6666CC All^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[2645] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
