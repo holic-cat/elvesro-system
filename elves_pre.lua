@@ -81482,6 +81482,31 @@ tbl = {
 		ClassNum = 3252,
 		costume = true
 	},
+	[70110] = {
+		unidentifiedDisplayName = "Rosary of the Quincy Clan",
+		unidentifiedResourceName  = "quincyrosary",
+		unidentifiedDescriptionName = {
+		"Unidentified item, can be identified with [Magnifier].",
+		},
+		identifiedDisplayName = "Rosary of the Quincy Clan",
+		identifiedResourceName = "quincyrosary",
+		identifiedDescriptionName = {
+			"A rosary belonging to the Quincy Clan, a group of Hollow slayers that were annihilated 210 years ago by the Soul Reapers in order to keep the balance of souls correct. Gathers spirit energy in order to form an immaterial bow that exterminates ghosts, but drains energy from user.",
+			"Improved Range.",
+			"Dex + 15, Critical Rate + 15",
+			"Increases damage against ^777777Ghost^000000 property monsters by 100%.",
+			"Maximum HP -5%, Maximum SP -15%",
+			"Item Class : ^777777Bow^000000",
+			"Attack Strength : ^777777160^000000",
+			"Attribute : ^777777Ghost^000000",
+			"Weight : ^77777721^000000",
+			"Weapon Level : ^7777774^000000",
+			"Required Level : ^77777750^000000",
+			"Applicable Jobs : ^777777Archer Class^000000",
+		},
+		slotCount = 4,
+		ClassNum = 103
+	},
 	[2168] = {
 		unidentifiedDisplayName = "Unidentified Shield",
 		unidentifiedResourceName = "°¡µå",
@@ -81888,6 +81913,27 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 13,
 	},
+	[1907] = {
+		unidentifiedDisplayName = "Unidentified Instrument",
+		unidentifiedResourceName = "¹ÙÀÌ¿Ã¸°",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Guitar",
+		identifiedResourceName = "±âÅ¸",
+		identifiedDescriptionName = {
+			"A six stringed musical instrument that is played by plucking the strings with fingers or a pick.",
+			"_______________________",
+			"^0000CCType:^000000 Musical Instrument",
+			"^0000CCAttack:^000000 30",
+			"^0000CCWeight:^000000 90",
+			"^0000CCWeapon Level:^000000 3",
+			"_______________________",
+			"^0000CCRequirement:^000000",
+			"Base Level 27",
+			"Bard classes"
+		},
+		slotCount = 0,
+		ClassNum = 13,
+	},
 	[400131] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
@@ -81915,6 +81961,34 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1057,
+		costume = false
+	},
+	[70111] = {
+		unidentifiedDisplayName = "Unidentified Helmet",
+		unidentifiedResourceName = "Çï¸§",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Bunny Egg Shell Kaho's Horn",
+		identifiedResourceName = "Åä³¢¸Ó¸®¾Ë²®Áú",
+		identifiedDescriptionName = {
+			"Helmet made by mysterious eggs. Pink bunny is so cute.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 1000,
 		costume = false
 	},
 }
