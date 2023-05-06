@@ -4,13 +4,13 @@
 ------ https://rathena.org/board/profile/30766-sader1992/
 ----------------------------------------------------------
 function add_url()
-	local M = "<URL>[ Elves Origin]<INFO>https://elvesro.com/</INFO></URL>"
+	local M = "<URL>[ Elves Origin]<INFO>https://elvesorigin.com/</INFO></URL>"
 	return M
 end
 function add_item_link(v)
-	local M = "<URL>ItemID:" .. tostring(v) .. " <INFO>https://elvesro.com/item/view/?id=" .. tostring(v) .. "</INFO></URL>"
+	local M = "<URL>ItemID:" .. tostring(v) .. " <INFO>https://elvesorigin.com/item/view/?id=" .. tostring(v) .. "</INFO></URL>"
 	-- FOR FluxCP
-	--local M = "<URL>ItemID:[" .. tostring(v) .. "](Click Me!)<INFO>https://elvesro.com/item/view/?id=" .. tostring(v) .. "</INFO></URL>"
+	--local M = "<URL>ItemID:[" .. tostring(v) .. "](Click Me!)<INFO>https://elvesorigin.com/item/view/?id=" .. tostring(v) .. "</INFO></URL>"
 	return M
 end
 function main()
