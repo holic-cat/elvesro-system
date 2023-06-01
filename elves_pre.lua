@@ -82206,6 +82206,25 @@ tbl = {
 		costume = false,
 		EffectID = 1186
 	},
+	[4198] = {
+		unidentifiedDisplayName = "Maya Purple Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Maya Purple Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Int +2",
+			"MATK +2%.",
+			"Enable its user to detect hidden enemies.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
 }
 
 -- Now for a helper function because i hate repetitions 
