@@ -24288,7 +24288,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Drooping Bunny",
+		identifiedDisplayName = "Elves Drooping Bunny",
 		identifiedResourceName = "늘어진토끼",
 		identifiedDescriptionName = {
 			"A cute bunny doll which can be worn on top of the head.",
@@ -24630,7 +24630,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Angel Wings",
+		identifiedDisplayName = "Elves Angel Wings",
 		identifiedResourceName = "천사의머리띠",
 		identifiedDescriptionName = {
 			"A beautiful winged shape hat made of a circlet which is glued with the feathers of angels.",
@@ -24652,7 +24652,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Evil Wings",
+		identifiedDisplayName = "Elves Evil Wings",
 		identifiedResourceName = "악마의머리띠",
 		identifiedDescriptionName = {
 			"Headgear made according to the wings on the demon's back.",
@@ -24674,7 +24674,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Majestic Goat",
+		identifiedDisplayName = "Elves Majestic Goat",
 		identifiedResourceName = "마제스틱고우트",
 		identifiedDescriptionName = {
 			"A headgear fashioned after the horns of a goat that captures the attention of onlookers.",
@@ -24694,7 +24694,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Bunny Band",
+		identifiedDisplayName = "Elves Bunny Band",
 		identifiedResourceName = "토끼머리띠",
 		identifiedDescriptionName = {
 			"A hare accessory that looks just like bunny ears.",
@@ -24714,7 +24714,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Drooping Kitty",
+		identifiedDisplayName = "Elves Drooping Kitty",
 		identifiedResourceName = "늘어진고양이",
 		identifiedDescriptionName = {
 			"A cat doll that you can carry on your head. If you think you hear it meow or feel it move, it's just an illusion.",
@@ -24735,7 +24735,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Pipe",
+		identifiedDisplayName = "Elves Pipe",
 		identifiedResourceName = "파이프담배",
 		identifiedDescriptionName = {
 			"Just say no. Especially if you're underage.",
@@ -24755,7 +24755,7 @@ tbl = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Pair of Red Ribbon",
+		identifiedDisplayName = "Elves Pair of Red Ribbon",
 		identifiedResourceName = "양쪽귀밑리본",
 		identifiedDescriptionName = {
 			"A pair of small red hairbands that makes girls look really cute when they wear them.",
@@ -24776,7 +24776,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Blue Fish",
+		identifiedDisplayName = "Elves Blue Fish",
 		identifiedResourceName = "생선모자",
 		identifiedDescriptionName = {
 			"A headgear that looks just like a scrumptious fish. It even has the same smell!",
@@ -24797,7 +24797,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Big Golden Bell",
+		identifiedDisplayName = "Elves Big Golden Bell",
 		identifiedResourceName = "대형금방울",
 		identifiedDescriptionName = {
 			"A cute hair accessory inspired by the giant golden bells worn by Sohee.",
@@ -24817,7 +24817,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Orc Hero Helm",
+		identifiedDisplayName = "Elves Orc Hero Helm",
 		identifiedResourceName = "오크히어로투구",
 		identifiedDescriptionName = {
 			"A headgear that is only bestowed to true Orc Heroes, the most valiant warriors of the Orc Clan.",
@@ -28638,7 +28638,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Leaf",
+		identifiedDisplayName = "Elves Leaf",
 		identifiedResourceName = "풀잎",
 		identifiedDescriptionName = {
 			"Thin leaves that attached to lips.",
@@ -32659,7 +32659,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Pipe",
+		identifiedDisplayName = "Elves Pipe",
 		identifiedResourceName = "파이프담배",
 		identifiedDescriptionName = {
 			"Just say no.",
@@ -32688,7 +32688,7 @@ tbl = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Pair of Red Ribbon",
+		identifiedDisplayName = "Elves Pair of Red Ribbon",
 		identifiedResourceName = "양쪽귀밑리본",
 		identifiedDescriptionName = {
 			"A pair of small",
@@ -32715,7 +32715,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Blue Fish",
+		identifiedDisplayName = "Elves Blue Fish",
 		identifiedResourceName = "생선모자",
 		identifiedDescriptionName = {
 			"A headgear that looks",
@@ -32789,7 +32789,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Bunny Band",
+		identifiedDisplayName = "Elves Bunny Band",
 		identifiedResourceName = "토끼머리띠",
 		identifiedDescriptionName = {
 			"A hare accessory",
@@ -32819,7 +32819,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evolved Majestic Goat",
+		identifiedDisplayName = "Elves Majestic Goat",
 		identifiedResourceName = "마제스틱고우트",
 		identifiedDescriptionName = {
 			"A headgear fashioned",
@@ -60740,7 +60740,7 @@ tbl = {
 			"with the chance of",
 			"obtaining an Injustice",
 			"Card, Zherlthsh Card,",
-			"or Evolved Headgear.",
+			"or Elves Headgear.",
 			"^FFFFFF_^000000",
 			"Weight:^009900 1^000000"
 		},
@@ -68932,13 +68932,13 @@ tbl = {
 		costume = false
 	},
 	[16699] = {
-		unidentifiedDisplayName = "Evolved Blue Fish Box",
+		unidentifiedDisplayName = "Elves Blue Fish Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Evolved Blue Fish Box",
+		identifiedDisplayName = "Elves Blue Fish Box",
 		identifiedResourceName = "생선모자box",
 		identifiedDescriptionName = {
-			"A box that contains 1 Evolved Blue Fish",
+			"A box that contains 1 Elves Blue Fish",
 			"description:",
 			"A headgear that looks",
 			"just like a scrumptious fish. It even has the",
@@ -68961,13 +68961,13 @@ tbl = {
 		costume = false
 	},
 	[16700] = {
-		unidentifiedDisplayName = "Evolved Blue Fish Box",
+		unidentifiedDisplayName = "Elves Blue Fish Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Evolved Blue Fish Box",
+		identifiedDisplayName = "Elves Blue Fish Box",
 		identifiedResourceName = "생선모자box",
 		identifiedDescriptionName = {
-			"A box that contains 1 Evolved Blue Fish",
+			"A box that contains 1 Elves Blue Fish",
 			"description:",
 			"A headgear that looks",
 			"just like a scrumptious fish. It even has the",
@@ -68990,13 +68990,13 @@ tbl = {
 		costume = false
 	},
 	[16701] = {
-		unidentifiedDisplayName = "Evolved Pair of Red Ribbon Box",
+		unidentifiedDisplayName = "Elves Pair of Red Ribbon Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Evolved Pair of Red Ribbon Box",
+		identifiedDisplayName = "Elves Pair of Red Ribbon Box",
 		identifiedResourceName = "양쪽귀밑리본box",
 		identifiedDescriptionName = {
-			"A box that contains 1 Evolved Pair of Red Ribbon",
+			"A box that contains 1 Elves Pair of Red Ribbon",
 			"Description:",
 			"A pair of small",
 			"red hairbands that",
@@ -69021,13 +69021,13 @@ tbl = {
 		costume = false
 	},
 	[16702] = {
-		unidentifiedDisplayName = "Evolved Pair of Red Ribbon Box",
+		unidentifiedDisplayName = "Elves Pair of Red Ribbon Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Evolved Pair of Red Ribbon Box",
+		identifiedDisplayName = "Elves Pair of Red Ribbon Box",
 		identifiedResourceName = "양쪽귀밑리본box",
 		identifiedDescriptionName = {
-			"A box that contains 1 Evolved Pair of Red Ribbon",
+			"A box that contains 1 Elves Pair of Red Ribbon",
 			"Description:",
 			"A pair of small",
 			"red hairbands that",
@@ -69052,13 +69052,13 @@ tbl = {
 		costume = false
 	},
 	[16703] = {
-		unidentifiedDisplayName = "Evolved Pipe Box",
+		unidentifiedDisplayName = "Elves Pipe Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Evolved Pipe Box",
+		identifiedDisplayName = "Elves Pipe Box",
 		identifiedResourceName = "파이프담배box",
 		identifiedDescriptionName = {
-			"A box that contains 1 Evolved Pipe",
+			"A box that contains 1 Elves Pipe",
 			"Description:",
 			"Just say no.",
 			"Especially if",
@@ -69085,13 +69085,13 @@ tbl = {
 		costume = false
 	},
 	[16704] = {
-		unidentifiedDisplayName = "Evolved Pipe Box",
+		unidentifiedDisplayName = "Elves Pipe Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Evolved Pipe Box",
+		identifiedDisplayName = "Elves Pipe Box",
 		identifiedResourceName = "파이프담배box",
 		identifiedDescriptionName = {
-			"A box that contains 1 Evolved Pipe",
+			"A box that contains 1 Elves Pipe",
 			"Description:",
 			"Just say no.",
 			"Especially if",
@@ -74723,15 +74723,15 @@ tbl = {
 	},
 
 	[50118] = {
-		unidentifiedDisplayName = "Evolved Blue Fish Box",
+		unidentifiedDisplayName = "Elves Blue Fish Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
 			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
 		},
-		identifiedDisplayName = "Evolved Blue Fish Box",
+		identifiedDisplayName = "Elves Blue Fish Box",
 		identifiedResourceName = "생선모자box",
 		identifiedDescriptionName = {
-			"A box that contains 1 Evolved Blue Fish",
+			"A box that contains 1 Elves Blue Fish",
 			"STR +5 , INT +5",
 			"VIT +10 , AGI +10",
 			"LUK +20 , MDEF +10",
@@ -82020,6 +82020,156 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 0,
 		costume = false
+	},
+	[70112] = {
+		unidentifiedDisplayName = "Elves",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Dragon Fly Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Flee Rate +20%",
+			"Agi +5",
+			"Increases resistance against ^777777Neutral^000000 elemental attack by 20%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Garment^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70113] = {
+		unidentifiedDisplayName = "Elves",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Deviling Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Add a 60% resistance against Neutral Property attacks.",
+			"Receive 25% more damage from other property attacks.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Garment^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70114] = {
+		unidentifiedDisplayName = "Elves",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Eclipse Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Vit +5",
+			"MaxHP +10%",
+			"Increases resistance against ^777777Neutral^000000 elemental attack by 20%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^008C99 Garment^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70115] = {
+		unidentifiedDisplayName = "Elves",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Mastering Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Luck +5",
+			"Increase Critical Damage by +10%",
+			"Increases resistance against ^777777Neutral^000000 elemental attack by 20%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^008C99 Garment^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70116] = {
+		unidentifiedDisplayName = "Elves",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Toad Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Dex +5",
+			"Increase Long Range Damage by 5%",
+			"Increases resistance against ^777777Neutral^000000 elemental attack by 20%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^008C99 Garment^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70117] = {
+		unidentifiedDisplayName = "Elves",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Vagabond Wolf Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Str +5",
+			"Increases melee physical damage by 5%.",
+			"Increases resistance against ^777777Neutral^000000 elemental attack by 20%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^008C99 Garment^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70118] = {
+		unidentifiedDisplayName = "Elves",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Tower Keeper Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Int +5",
+			"Increases magic damage dealt to all races by 5%.",
+			"Increases resistance against ^777777Neutral^000000 elemental attack by 20%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^008C99 Garment^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70119] = {
+		unidentifiedDisplayName = "Elves",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Vocal Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Adds resistance to physical attacks in all elements by 15%.",
+			"Increases resistance against ^777777Neutral^000000 elemental attack by 5%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^008C99 Garment^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
 	},
 }
 
