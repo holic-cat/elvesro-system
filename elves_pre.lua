@@ -82171,6 +82171,41 @@ tbl = {
 		costume = false,
 		EffectID = 1186
 	},
+	[70120] = {
+		unidentifiedDisplayName = "Elves",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Rotar Zairo Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Reduce damage from DemiHuman Monster by 40%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Shield^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70121] = {
+		unidentifiedDisplayName = "Elves",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Hydrolancer Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Inflict 11% more damage with Fire Bolt.",
+			"Inflict 11% more damage with Cold Bolt.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Accessory^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
 }
 
 -- Now for a helper function because i hate repetitions 
