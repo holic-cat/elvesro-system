@@ -15886,8 +15886,6 @@ tbl = {
 		identifiedDisplayName = "Arc Angelring Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Prevents ^663399Chaos Panic^000000 status.",
-			"_______________________",
 			"MaxHP +300",
 			"_______________________",
 			"When base LUK is 77 or higher: Increases natural HP and SP regeneration by 100%.",
@@ -67501,8 +67499,8 @@ tbl = {
 		identifiedDescriptionName = {
 			"The armor that made by power of mythic creature, Boitata",
 			"_______________________",
-			"MaxHP +5%",
-			"FLEE +5",
+			"MaxHP +1% Per 2 Refine",
+			"FLEE Per Refine",
 			"MDEF +3",
 			"_______________________",
 			"Decreases damage taken from ^777777Neutral^000000 elemental attacks by 7%.",
@@ -82206,11 +82204,11 @@ tbl = {
 		costume = false,
 		EffectID = 1186
 	},
-	[4198] = {
-		unidentifiedDisplayName = "Maya Purple Card",
+	[70122] = {
+		unidentifiedDisplayName = "Elves",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Maya Purple Card",
+		identifiedDisplayName = "Elves Maya Purple Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Int +2",
@@ -82225,6 +82223,226 @@ tbl = {
 		costume = false,
 		EffectID = 1186
 	},
+	[70123] = {
+		unidentifiedDisplayName = "Elves Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Byorgue Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"[^6666CCRogue class^000000]",
+			"Atk +11%",
+			"Matk +11%",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70124] = {
+		unidentifiedDisplayName = "Elves Cat O' Nine Tails Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Cat O' Nine Tails Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Max HP +20%",
+			"Max SP +5%",
+			"MDEF +7",
+			"DEF +7",
+			"ASPD +7%",
+			"7% chance to reflect single target attack magic back at the caster.",
+			"Reflect 7% of all physical damage back to the enemy which inflicted it.",
+			"Reflect 7% all long range damage back to the enemy which inflicted it.",
+			"Increases Movement Speed by 7%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^999900 Footgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70125] = {
+		unidentifiedDisplayName = "Elves Arc Angelring Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Arc Angelring Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MaxHP +10%",
+			"MaxHP +600",
+			"_______________________",
+			"When base LUK is 77 or higher: Increases natural HP and SP regeneration by 100%.",
+			"_______________________",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70126] = {
+		unidentifiedDisplayName = "Chimera Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Chimera Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MaxHP +90%",
+			"Enchant an Armor with the Poison Property.",
+			"Add the chance of poisoning an enemy when the user receives Physical Damage.",
+			"The chance is increased if worn by ^6666CCAssassin class^000000.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70127] = {
+		unidentifiedDisplayName = "Elves Gryphon Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Gryphon Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Inflict 20% more damage with Lord of Vermilion.",
+			"Inflict 15% more damage with Thunder Storm.",
+			"Inflict 10% more damage with Jupitel Thunder.",
+			"_______________________",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70128] = {
+		unidentifiedDisplayName = "Elves Gemini-S58 Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Gemini-S58 Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Adds 50% resistance to the ^FF0000Stun^000000 and ^FF0000Silence^000000 if base AGI is 90 or higher.",
+			"adds 50% resistance to the ^663399Stone Curse^000000 and ^FF0000Sleep^000000 if base VIT is 80 or higher.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70129] = {
+		unidentifiedDisplayName = "ElvesEntweihen Crothen Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Entweihen Crothen Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Matk +100",
+			"[ Wizard Classes ]",
+			"INT +2",
+			"Matk 7%",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Accessory^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70130] = {
+		unidentifiedDisplayName = "ElvesGhostring Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Ghostring Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MaxHP +20%",
+			"Enchants armor with ^777777Ghost^000000 elemental.",
+			"Reduce natural HP regeneration by 25%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70131] = {
+		unidentifiedDisplayName = "Elves Angelring Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Angelring Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MaxHP +30%",
+			"Blesses an Armor with the ^777777Holy^000000 elemental.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70132] = {
+		unidentifiedDisplayName = "ElvesMutant Dragonoid Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Mutant Dragonoid Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases Crimson Fire Blossom damage by 15%",
+			"Increases Fire Ball damage by 100%",
+			"Add the chance of auto casting ^008800Level 3 Fire Ball^000000 on an enemy while doing Physical Attack.",
+			"If the user has mastered the skill at levl 10, it will cast ^008800Level 10 Fire Ball^000000.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[27126] = {
+		unidentifiedDisplayName = "Boitata Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Boitata Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases Physical Damage against enemies of ^FF0000Brute^000000 and ^FF0000Insect^000000 race by 10%.",
+			"Increases Physical Damage against enemies of ^33CC00Wind^000000 and ^CC5500Earth^000000 elemental by 10%.",
+			"_______________________",
+			"^0000CCType:^000000 Card",
+			"^0000CCCompound on:^000000 Armor",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	
 }
 
 -- Now for a helper function because i hate repetitions 
