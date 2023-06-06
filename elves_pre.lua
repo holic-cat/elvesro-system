@@ -82443,7 +82443,272 @@ tbl = {
 		costume = false,
 		EffectID = 1186
 	},
-	
+	[480108] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Poring Basket",
+		identifiedResourceName = "C_Poring_Basket",
+		identifiedDescriptionName = {
+			"Basket full of Porings. It's filled up to the point where it can pop out right away.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = true
+	},
+	[480111] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Flowing Wing",
+		identifiedResourceName = "C_Flower_Wing",
+		identifiedDescriptionName = {
+			"Wings with beautiful flowers. It's fantastic like a flower garden under the sunset",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 106,
+		costume = true
+	},
+	[480117] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Elec_Guitar_Of_Phen",
+		identifiedResourceName = "C_Elec_Guitar_Of_Phen",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 108,
+		costume = true
+	},
+	[480118] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_G_DaeHyon_Sword_TW",
+		identifiedResourceName = "C_G_DaeHyon_Sword_TW",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 114,
+		costume = true
+	},
+	[480119] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Niflheim_Key",
+		identifiedResourceName = "C_Niflheim_Key",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 110,
+		costume = true
+	},
+	[480121] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Striking_Mikoshi",
+		identifiedResourceName = "C_Striking_Mikoshi",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 111,
+		costume = true
+	},
+	[480122] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Samba_Carnival",
+		identifiedResourceName = "C_Samba_Carnival",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 112,
+		costume = true
+	},
+	[480123] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Nydhog_Rumor",
+		identifiedResourceName = "C_Nydhog_Rumor",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 113,
+		costume = true
+	},
+	[480126] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Giant_Shark",
+		identifiedResourceName = "C_Giant_Shark",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 109,
+		costume = true
+	},
+	[480127] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Hooked_Straw_Hat",
+		identifiedResourceName = "C_Hooked_Straw_Hat",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 115,
+		costume = true
+	},
+	[480130] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Beer_Server",
+		identifiedResourceName = "C_Beer_Server",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 117,
+		costume = true
+	},
+	[480158] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Lunatic Bag",
+		identifiedResourceName = "C_Lunatic_Bag",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 123,
+		costume = true
+	},
+	[480198] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume 20th Anniversary Laurel Wings",
+		identifiedResourceName = "C_20th_Anniversary_Wing",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 136,
+		costume = true
+	},
+	[480198] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Guardian wing decoration",
+		identifiedResourceName = "C_Guardian_Wingdeco",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 136,
+		costume = true
+	},
 }
 
 -- Now for a helper function because i hate repetitions 
