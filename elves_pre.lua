@@ -82193,8 +82193,9 @@ tbl = {
 		identifiedDisplayName = "Elves Hydrolancer Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Inflict 11% more damage with Fire Bolt.",
-			"Inflict 11% more damage with Cold Bolt.",
+			"Inflict 25% more damage with Fire Bolt.",
+			"Inflict 25% more damage with Cold Bolt.",
+			"Inflict 25% more damage with Lightning Bolt.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Accessory^000000",
 			"Weight:^009900 1^000000"
@@ -82234,7 +82235,7 @@ tbl = {
 			"Atk +11%",
 			"Matk +11%",
 			"Class:^6666CC Card^000000",
-			"Compound on:^00CC33 Armor^000000",
+			"Compound on:^00CC33 Accessory^000000",
 			"Weight:^009900 1^000000"
 		},
 		slotCount = 0,
@@ -82292,7 +82293,7 @@ tbl = {
 		unidentifiedDisplayName = "Chimera Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Chimera Card",
+		identifiedDisplayName = "Elves Chimera Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +90%",
