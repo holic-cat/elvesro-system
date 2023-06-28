@@ -83070,6 +83070,25 @@ tbl = {
 		ClassNum = 3846,
 		costume = true
 	},
+	[70151] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "White_Perfect_Aura",
+		identifiedResourceName = "White_Perfect_Aura",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3847,
+		costume = true
+	},
 }
 
 -- Now for a helper function because i hate repetitions 
