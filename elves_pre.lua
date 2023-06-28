@@ -82956,6 +82956,120 @@ tbl = {
 		ClassNum = 3840,
 		costume = true
 	},
+	[70146] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Rainbow_Perfect_Aura",
+		identifiedResourceName = "Rainbow_Perfect_Aura",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3841,
+		costume = true
+	},
+	[70147] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Black_Perfect_Aura",
+		identifiedResourceName = "Black_Perfect_Aura",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3842,
+		costume = true
+	},
+	[70148] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Blue_Perfect_Aura",
+		identifiedResourceName = "Blue_Perfect_Aura",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3843,
+		costume = true
+	},
+	[70215] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Green_Perfect_Aura",
+		identifiedResourceName = "Green_Perfect_Aura",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3844,
+		costume = true
+	},
+	[70149] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "LPurple_Perfect_Aura",
+		identifiedResourceName = "LPurple_Perfect_Aura",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3845,
+		costume = true
+	},
+	[70150] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Red_Perfect_Aura",
+		identifiedResourceName = "Red_Perfect_Aura",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3846,
+		costume = true
+	},
 }
 
 -- Now for a helper function because i hate repetitions 
