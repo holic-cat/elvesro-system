@@ -83469,25 +83469,6 @@ tbl = {
 		ClassNum = 3868,
 		costume = true
 	},
-	[70174] = {
-		unidentifiedDisplayName = "Unidentified Mask",
-		unidentifiedResourceName = "府夯",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Gold_Aura_Of_Fire",
-		identifiedResourceName = "Gold_Aura_Of_Fire",
-		identifiedDescriptionName = {
-			"Unknown aura that wrapped your body.",
-			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 0",
-			"_______________________",
-			"^0000CCRequirement:^000000 None"
-		},
-		slotCount = 0,
-		ClassNum = 3869,
-		costume = true
-	},
 	[70175] = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "府夯",
@@ -84177,7 +84158,7 @@ tbl = {
 		unidentifiedResourceName = "府夯",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Black Lord Kaho's Horn",
-		identifiedResourceName = "Black_Lord_Kaho_Horn",
+		identifiedResourceName = "Black_LKH",
 		identifiedDescriptionName = {
 			"A special headgear created specifically for Lord Kaho... Whoever he is.",
 			"_______________________",
@@ -84205,7 +84186,7 @@ tbl = {
 		unidentifiedResourceName = "府夯",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Blue Lord Kaho's Horn",
-		identifiedResourceName = "Blue_Lord_Kaho_Horn",
+		identifiedResourceName = "Blue_LKH",
 		identifiedDescriptionName = {
 			"A special headgear created specifically for Lord Kaho... Whoever he is.",
 			"_______________________",
@@ -84233,7 +84214,7 @@ tbl = {
 		unidentifiedResourceName = "府夯",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Green Lord Kaho's Horn",
-		identifiedResourceName = "Green_Lord_Kaho_Horn",
+		identifiedResourceName = "Green_LKH",
 		identifiedDescriptionName = {
 			"A special headgear created specifically for Lord Kaho... Whoever he is.",
 			"_______________________",
@@ -84261,7 +84242,7 @@ tbl = {
 		unidentifiedResourceName = "府夯",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Red Lord Kaho's Horn",
-		identifiedResourceName = "Red_Lord_Kaho_Horn",
+		identifiedResourceName = "Red_LKH",
 		identifiedDescriptionName = {
 			"A special headgear created specifically for Lord Kaho... Whoever he is.",
 			"_______________________",
@@ -84289,7 +84270,7 @@ tbl = {
 		unidentifiedResourceName = "府夯",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "White Lord Kaho's Horn",
-		identifiedResourceName = "White_Lord_Kaho_Horn",
+		identifiedResourceName = "White_LKH",
 		identifiedDescriptionName = {
 			"A special headgear created specifically for Lord Kaho... Whoever he is.",
 			"_______________________",
@@ -84317,7 +84298,7 @@ tbl = {
 		unidentifiedResourceName = "府夯",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Gold Lord Kaho's Horn",
-		identifiedResourceName = "Gold_Lord_Kaho_Horn",
+		identifiedResourceName = "gold_LKH",
 		identifiedDescriptionName = {
 			"A special headgear created specifically for Lord Kaho... Whoever he is.",
 			"_______________________",
