@@ -9992,7 +9992,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A necessity for elegant woman!",
 			"Vit +3",
-			"Increases HP recovery by 10%.",
+			"Increases MaxHP by 10%.",
 			"Class:^6666CC Accessory^000000",
 			"Defense:^0000FF 0^000000",
 			"Weight:^009900 15^000000",
