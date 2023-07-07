@@ -84158,7 +84158,7 @@ tbl = {
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Black Lord Kaho's Horn",
-		identifiedResourceName = "Black_LKH",
+		identifiedResourceName = "로드카호의뿔",
 		identifiedDescriptionName = {
 			"A special headgear created specifically for Lord Kaho... Whoever he is.",
 			"_______________________",
@@ -84186,7 +84186,7 @@ tbl = {
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Blue Lord Kaho's Horn",
-		identifiedResourceName = "Blue_LKH",
+		identifiedResourceName = "로드카호의뿔",
 		identifiedDescriptionName = {
 			"A special headgear created specifically for Lord Kaho... Whoever he is.",
 			"_______________________",
@@ -84214,7 +84214,7 @@ tbl = {
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Green Lord Kaho's Horn",
-		identifiedResourceName = "Green_LKH",
+		identifiedResourceName = "로드카호의뿔",
 		identifiedDescriptionName = {
 			"A special headgear created specifically for Lord Kaho... Whoever he is.",
 			"_______________________",
@@ -84242,7 +84242,7 @@ tbl = {
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Red Lord Kaho's Horn",
-		identifiedResourceName = "Red_LKH",
+		identifiedResourceName = "로드카호의뿔",
 		identifiedDescriptionName = {
 			"A special headgear created specifically for Lord Kaho... Whoever he is.",
 			"_______________________",
@@ -84270,7 +84270,7 @@ tbl = {
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "White Lord Kaho's Horn",
-		identifiedResourceName = "White_LKH",
+		identifiedResourceName = "로드카호의뿔",
 		identifiedDescriptionName = {
 			"A special headgear created specifically for Lord Kaho... Whoever he is.",
 			"_______________________",
@@ -84298,7 +84298,7 @@ tbl = {
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Gold Lord Kaho's Horn",
-		identifiedResourceName = "gold_LKH",
+		identifiedResourceName = "로드카호의뿔",
 		identifiedDescriptionName = {
 			"A special headgear created specifically for Lord Kaho... Whoever he is.",
 			"_______________________",
