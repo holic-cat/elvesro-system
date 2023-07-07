@@ -13587,7 +13587,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"+12% Max HP",
 			"_______________________",
-			"Enable faster Movement Speed so long as the Footgear to which this card is compounded is equipped.",
+			"+12 Movement Speed so long as the Footgear to which this card is compounded is equipped.",
 			"_______________________",
 			"Class:^6666CC Card^000000",
 			"Compound on:^999900 Footgear^000000",
@@ -13598,7 +13598,6 @@ tbl = {
 		costume = false,
 		EffectID = 1186
 	},
-
 	[4133] = {
 		unidentifiedDisplayName = "Raydric Card",
 		unidentifiedResourceName = "이름없는카드",
@@ -84320,6 +84319,196 @@ tbl = {
 		slotCount = 4,
 		ClassNum = 3912,
 		costume = true
+	},
+	[70215] = {
+		unidentifiedDisplayName = "Eddga Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Eddga Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases damage of ^009900Cart Termination^000000 by 25%.",			
+			"Enable effect of the Endure skill so long as the Footgear to which this card is compounded is equipped.",
+			"_______________________",
+			"Class:^6666CC Card^000000",
+			"Compound on:^999900 Footgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70216] = {
+		unidentifiedDisplayName = "Moonlight Flower Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Moonlight Flower Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"+20% Max HP",			
+			"+55 Movement Speed so long as the Footgear to which this card is compounded is equipped.",
+			"_______________________",
+			"Class:^6666CC Card^000000",
+			"Compound on:^999900 Footgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70217] = {
+		unidentifiedDisplayName = "Mistress Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Elves Mistress Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Nullifies Gemstone requirement of certain skills.",
+			"Decreases After Skill Delay of all skills by 15%.",
+			"_______________________",
+			"^0000CCType:^000000 Card",
+			"^0000CCCompound on:^000000 Headgear",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70218] = {
+		unidentifiedDisplayName = "Maya Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Maya Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Enable a 50% chance of reflecting Magic spells, aside from skills which target the ground, cast on the character.",
+			"Adds 30% chance of reflecting magical attacks for 2 seconds when wielder receive magical attack.",
+			"_______________________",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6666CC Shield^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70219] = {
+		unidentifiedDisplayName = "Phreeoni Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Phreeoni Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Hit +150",
+			"Atk +40",
+			"_______________________",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70220] = {
+		unidentifiedDisplayName = "Elves Orc Lord Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Orc Lord Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MaxHP +50%",
+			"Reflect 30% of all physical damage back to attacker.",
+			"_______________________",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70221] = {
+		unidentifiedDisplayName = "Turtle General Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Turtle General Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Atk +25%",
+			"_______________________",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70222] = {
+		unidentifiedDisplayName = "Elves Osiris Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Osiris Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases effectiveness of Healing skills by 10% when they are cast by the wearer.",
+			"Enable full HP and SP restoration when resurrected.",
+			"_______________________",
+			"Class:^6666CC Card^000000",
+			"Compound on:^B40088 Accessory^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70223] = {
+		unidentifiedDisplayName = "Elves Doppelganger Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves  Doppelganger Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Enable faster Attack Speed so long as the weapon to which this card is compounded is equipped.",
+			"Inflict 25% more damage with Critical Attack.",
+			"ASPD +100",
+			"Increase physical and magical damage against monsters by 10%.",
+			"_______________________",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70224] = {
+		unidentifiedDisplayName = "Elves Baphomet Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Baphomet Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Hit -10",
+			"Endow a weapon with damage that will splash 28 cells around the character with each attack.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
 	},
 }
 
