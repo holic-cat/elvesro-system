@@ -84510,6 +84510,224 @@ tbl = {
 		costume = false,
 		EffectID = 1186
 	},
+	[70225] = {
+		unidentifiedDisplayName = "Incantation Samurai Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Incantation Samurai Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases damage on DemiHuman monster by 15%.",
+			"Ignores ^6666CCNormal^000000 monster's defense when attacking.",
+			"Disables HP regen.",
+			"Drains 666 HP every 10 seconds.",
+			"Drains 999 HP as the weapon is unequipped.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70226] = {
+		unidentifiedDisplayName = "Pharaoh Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Pharaoh Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Reduces SP cost by 30%.",
+			"Ignores magical defense of all race monsters by 100%.",
+			"MATK +2%",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70227] = {
+		unidentifiedDisplayName = "Atroce Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Atroce Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Atk +25",
+			"Atk +10%",
+			"When in physical attack, Reduces after attack delay by 100% for 10 seconds.",
+			"Increases physical damage inflicted on Holy elemental monsters by 30%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70228] = {
+		unidentifiedDisplayName = "Stormy Knight Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Stormy Knight Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Add the chance of auto casting ^008800Level 1 Storm Gust^000000 on enemy when doing Physical Attack.",
+			"Has 30% chance of ^FF0000Freezing^000000 an enemy when attacking.",
+			"Each 2 refine levels, increases ATK by 1%.",
+			"Every 2 refine levels, increases MATK by 1%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70229] = {
+		unidentifiedDisplayName = "Dracula Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Dracula Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Adds 20% chance of gaining 5% of the damage inflicted on target as SP with each attack.",
+			"Adds 30% chance of absorbing 40% of the physical damage against target by the wearer as HP.",
+			"_______________________",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70230] = {
+		unidentifiedDisplayName = "Hatii Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Hatii Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Has 50% chance of Freezing an enemy when the user receives Physical Damage.",
+			"Max HP +40%.",
+			"Increases Storm Gust damage by 15%.???",
+			"Each 2 refine levels, increases ATK by 1%.",
+			"Every 2 refine levels, increases MATK by 1%.?",
+			"Add a 10% chance of auto casting Level 10 Storm Gust on an enemy when the user receives physical attack.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70231] = {
+		unidentifiedDisplayName = "Boss Egnigem Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Boss Egnigem Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MaxHP +20%",
+			"MaxSP +20%",
+			"Each refine increases Max Hp and Max SP by 1%.",
+			"Restores 50 HP and 10 SP every 10 seconds",
+			"Class:^6666CC Card^000000",
+			"Compound on:^999900 Footgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70232] = {
+		unidentifiedDisplayName = "Elves Vesper Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Vesper Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Dex +2",
+			"Int +2",
+			"Ignores 50% of ^6666CCBoss^000000 monster's Magic Defense Rate when inflicting magic attacks against them.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70233] = {
+		unidentifiedDisplayName = "Elves White Lady Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves White Lady Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases effectiveness of Healing skills by 50% when they are cast by the wearer.",
+			"Increases SP consumption by 15%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70234] = {
+		unidentifiedDisplayName = "Ktullanux Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Ktullanux Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MaxHP +70%",
+			"Increases damage to Fire monsters by 50%,",
+			"adds a chance of auto casting ^008800Level 10 Frost Nova^000000 when the wearer receives physical or magic damage.",
+			"Gain immunity from the Frozen status and increase resistance to Water Property by 5%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70236] = {
+		unidentifiedDisplayName = "Detardeurus Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Detardeurus Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MDEF -20",
+			"MaxHP +50%",
+			"Gains immunity against ^FF0000Frozen^000000 status.",
+			"Adds a chance of autocasting ^008800Level 1 Land Protector^000000 each time the wearer is magically attacked.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
 }
 
 -- Now for a helper function because i hate repetitions 
