@@ -84708,7 +84708,7 @@ tbl = {
 		costume = false,
 		EffectID = 1186
 	},
-	[70236] = {
+	[70235] = {
 		unidentifiedDisplayName = "Detardeurus Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
