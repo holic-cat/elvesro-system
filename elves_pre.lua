@@ -9482,7 +9482,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Limited Edition",
+		identifiedDisplayName = "[Elves] Limited Edition",
 		identifiedResourceName = "애장판북",
 		identifiedDescriptionName = {
 			"Collectible comics Elves. There is someone's autograph written in it.",
@@ -19425,7 +19425,7 @@ tbl = {
 		identifiedDisplayName = "Kiel-D-01 Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Reduces after cast delay of all skills by 13%.",
+			"Reduces after cast delay of all skills by 15%.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^6600FF Headgear^000000",
 			"Weight:^009900 1^000000"
@@ -24285,7 +24285,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Drooping Bunny",
+		identifiedDisplayName = "[Elves] Drooping Bunny",
 		identifiedResourceName = "늘어진토끼",
 		identifiedDescriptionName = {
 			"A cute bunny doll which can be worn on top of the head.",
@@ -24334,7 +24334,7 @@ tbl = {
 		identifiedDisplayName = "Party Hat",
 		identifiedResourceName = "꼬깔모자",
 		identifiedDescriptionName = {
-			"Elves event hat cones.",
+			"[Elves] event hat cones.",
 			"All stats +3",
 			"Class:^6666CC Headgear^000000",
 			"Defense:^0000FF 3^000000",
@@ -24627,7 +24627,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Angel Wings",
+		identifiedDisplayName = "[Elves] Angel Wings",
 		identifiedResourceName = "천사의머리띠",
 		identifiedDescriptionName = {
 			"A beautiful winged shape hat made of a circlet which is glued with the feathers of angels.",
@@ -24649,7 +24649,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Evil Wings",
+		identifiedDisplayName = "[Elves] Evil Wings",
 		identifiedResourceName = "악마의머리띠",
 		identifiedDescriptionName = {
 			"Headgear made according to the wings on the demon's back.",
@@ -24671,7 +24671,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Majestic Goat",
+		identifiedDisplayName = "[Elves] Majestic Goat",
 		identifiedResourceName = "마제스틱고우트",
 		identifiedDescriptionName = {
 			"A headgear fashioned after the horns of a goat that captures the attention of onlookers.",
@@ -24691,7 +24691,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Bunny Band",
+		identifiedDisplayName = "[Elves] Bunny Band",
 		identifiedResourceName = "토끼머리띠",
 		identifiedDescriptionName = {
 			"A hare accessory that looks just like bunny ears.",
@@ -24711,7 +24711,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Drooping Kitty",
+		identifiedDisplayName = "[Elves] Drooping Kitty",
 		identifiedResourceName = "늘어진고양이",
 		identifiedDescriptionName = {
 			"A cat doll that you can carry on your head. If you think you hear it meow or feel it move, it's just an illusion.",
@@ -24732,7 +24732,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Pipe",
+		identifiedDisplayName = "[Elves] Pipe",
 		identifiedResourceName = "파이프담배",
 		identifiedDescriptionName = {
 			"Just say no. Especially if you're underage.",
@@ -24752,7 +24752,7 @@ tbl = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Pair of Red Ribbon",
+		identifiedDisplayName = "[Elves] Pair of Red Ribbon",
 		identifiedResourceName = "양쪽귀밑리본",
 		identifiedDescriptionName = {
 			"A pair of small red hairbands that makes girls look really cute when they wear them.",
@@ -24773,7 +24773,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Blue Fish",
+		identifiedDisplayName = "[Elves] Blue Fish",
 		identifiedResourceName = "생선모자",
 		identifiedDescriptionName = {
 			"A headgear that looks just like a scrumptious fish. It even has the same smell!",
@@ -24794,7 +24794,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Big Golden Bell",
+		identifiedDisplayName = "[Elves] Big Golden Bell",
 		identifiedResourceName = "대형금방울",
 		identifiedDescriptionName = {
 			"A cute hair accessory inspired by the giant golden bells worn by Sohee.",
@@ -24814,7 +24814,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Orc Hero Helm",
+		identifiedDisplayName = "[Elves] Orc Hero Helm",
 		identifiedResourceName = "오크히어로투구",
 		identifiedDescriptionName = {
 			"A headgear that is only bestowed to true Orc Heroes, the most valiant warriors of the Orc Clan.",
@@ -28635,7 +28635,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Leaf",
+		identifiedDisplayName = "[Elves] Leaf",
 		identifiedResourceName = "풀잎",
 		identifiedDescriptionName = {
 			"Thin leaves that attached to lips.",
@@ -32656,7 +32656,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Pipe",
+		identifiedDisplayName = "[Elves] Pipe",
 		identifiedResourceName = "파이프담배",
 		identifiedDescriptionName = {
 			"Just say no.",
@@ -32685,7 +32685,7 @@ tbl = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Pair of Red Ribbon",
+		identifiedDisplayName = "[Elves] Pair of Red Ribbon",
 		identifiedResourceName = "양쪽귀밑리본",
 		identifiedDescriptionName = {
 			"A pair of small",
@@ -32712,7 +32712,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Blue Fish",
+		identifiedDisplayName = "[Elves] Blue Fish",
 		identifiedResourceName = "생선모자",
 		identifiedDescriptionName = {
 			"A headgear that looks",
@@ -32786,7 +32786,7 @@ tbl = {
 		unidentifiedDisplayName = "Hairband",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Bunny Band",
+		identifiedDisplayName = "[Elves] Bunny Band",
 		identifiedResourceName = "토끼머리띠",
 		identifiedDescriptionName = {
 			"A hare accessory",
@@ -32816,7 +32816,7 @@ tbl = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Elves Majestic Goat",
+		identifiedDisplayName = "[Elves] Majestic Goat",
 		identifiedResourceName = "마제스틱고우트",
 		identifiedDescriptionName = {
 			"A headgear fashioned",
@@ -42607,10 +42607,10 @@ tbl = {
 		costume = false
 	},
 	[7145] = {
-		unidentifiedDisplayName = "Elves T-shirt",
+		unidentifiedDisplayName = "[Elves] T-shirt",
 		unidentifiedResourceName = "라그티셔츠",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves T-shirt",
+		identifiedDisplayName = "[Elves] T-shirt",
 		identifiedResourceName = "라그티셔츠",
 		identifiedDescriptionName = {
 			"A cotton shirt with the Elves logo printed on it.",
@@ -43430,7 +43430,7 @@ tbl = {
 		identifiedDisplayName = "13th Anniversary Coin",
 		identifiedResourceName = "포링코인",
 		identifiedDescriptionName = {
-			"Elves 13th anniversary coin.",
+			"[Elves] 13th anniversary coin.",
 			"Weight:^009900 0^000000"
 		},
 		slotCount = 0,
@@ -44513,7 +44513,7 @@ tbl = {
 		identifiedDisplayName = "Novice Figure",
 		identifiedResourceName = "피규어",
 		identifiedDescriptionName = {
-			"Elves Novice Figure.",
+			"[Elves] Novice Figure.",
 			"^FFFFFF_^000000",
 			"Weight:^009900 1^000000"
 		},
@@ -68929,10 +68929,10 @@ tbl = {
 		costume = false
 	},
 	[16699] = {
-		unidentifiedDisplayName = "Elves Blue Fish Box",
+		unidentifiedDisplayName = "[Elves] Blue Fish Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Blue Fish Box",
+		identifiedDisplayName = "[Elves] Blue Fish Box",
 		identifiedResourceName = "생선모자box",
 		identifiedDescriptionName = {
 			"A box that contains 1 Elves Blue Fish",
@@ -68958,10 +68958,10 @@ tbl = {
 		costume = false
 	},
 	[16700] = {
-		unidentifiedDisplayName = "Elves Blue Fish Box",
+		unidentifiedDisplayName = "[Elves] Blue Fish Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Blue Fish Box",
+		identifiedDisplayName = "[Elves] Blue Fish Box",
 		identifiedResourceName = "생선모자box",
 		identifiedDescriptionName = {
 			"A box that contains 1 Elves Blue Fish",
@@ -68987,10 +68987,10 @@ tbl = {
 		costume = false
 	},
 	[16701] = {
-		unidentifiedDisplayName = "Elves Pair of Red Ribbon Box",
+		unidentifiedDisplayName = "[Elves] Pair of Red Ribbon Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Pair of Red Ribbon Box",
+		identifiedDisplayName = "[Elves] Pair of Red Ribbon Box",
 		identifiedResourceName = "양쪽귀밑리본box",
 		identifiedDescriptionName = {
 			"A box that contains 1 Elves Pair of Red Ribbon",
@@ -69018,10 +69018,10 @@ tbl = {
 		costume = false
 	},
 	[16702] = {
-		unidentifiedDisplayName = "Elves Pair of Red Ribbon Box",
+		unidentifiedDisplayName = "[Elves] Pair of Red Ribbon Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Pair of Red Ribbon Box",
+		identifiedDisplayName = "[Elves] Pair of Red Ribbon Box",
 		identifiedResourceName = "양쪽귀밑리본box",
 		identifiedDescriptionName = {
 			"A box that contains 1 Elves Pair of Red Ribbon",
@@ -69049,10 +69049,10 @@ tbl = {
 		costume = false
 	},
 	[16703] = {
-		unidentifiedDisplayName = "Elves Pipe Box",
+		unidentifiedDisplayName = "[Elves] Pipe Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Pipe Box",
+		identifiedDisplayName = "[Elves] Pipe Box",
 		identifiedResourceName = "파이프담배box",
 		identifiedDescriptionName = {
 			"A box that contains 1 Elves Pipe",
@@ -69082,10 +69082,10 @@ tbl = {
 		costume = false
 	},
 	[16704] = {
-		unidentifiedDisplayName = "Elves Pipe Box",
+		unidentifiedDisplayName = "[Elves] Pipe Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Pipe Box",
+		identifiedDisplayName = "[Elves] Pipe Box",
 		identifiedResourceName = "파이프담배box",
 		identifiedDescriptionName = {
 			"A box that contains 1 Elves Pipe",
@@ -74720,12 +74720,12 @@ tbl = {
 	},
 
 	[50118] = {
-		unidentifiedDisplayName = "Elves Blue Fish Box",
+		unidentifiedDisplayName = "[Elves] Blue Fish Box",
 		unidentifiedResourceName = "오래된보라상자",
 		unidentifiedDescriptionName = {
 			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
 		},
-		identifiedDisplayName = "Elves Blue Fish Box",
+		identifiedDisplayName = "[Elves] Blue Fish Box",
 		identifiedResourceName = "생선모자box",
 		identifiedDescriptionName = {
 			"A box that contains 1 Elves Blue Fish",
@@ -75260,7 +75260,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Spear",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "ElvesRO Imperial Spear",
+		identifiedDisplayName = "[Elves]RO Imperial Spear",
 		identifiedResourceName = "임페리얼스피어",
 		identifiedDescriptionName = {
 			"A beautiful spear engraved with patterns of the Rune-Midgarts Kingdom.",
@@ -77994,7 +77994,7 @@ tbl = {
 			"A box containing 1 Raider Access Card, 50 Berry Ticket and 5 ElvesRO's Lunch Box",
 			"Raider Access Card is use accessing Guild Safeland for 10 minutes",
 			"Berry Ticket Exchange it for 200 Yggrdrasil Berry",
-			"ElvesRO's Lunch Box All Stats +10 for 10 minutes.",
+			"[Elves]RO's Lunch Box All Stats +10 for 10 minutes.",
 			" ",
 			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000",
 			" ",
@@ -78186,7 +78186,7 @@ tbl = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "타레요정의귀",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "ElvesRO CROWN",
+		identifiedDisplayName = "[Elves]RO CROWN",
 		identifiedResourceName = "타레요정의귀",
 		identifiedDescriptionName = {
 			"Allstats +10",
@@ -82019,10 +82019,10 @@ tbl = {
 		costume = false
 	},
 	[70112] = {
-		unidentifiedDisplayName = "Elves",
+		unidentifiedDisplayName = "[Elves]",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Dragon Fly Card",
+		identifiedDisplayName = "[Elves] Dragon Fly Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Flee Rate +20%",
@@ -82038,10 +82038,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70113] = {
-		unidentifiedDisplayName = "Elves",
+		unidentifiedDisplayName = "[Elves]",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Deviling Card",
+		identifiedDisplayName = "[Elves] Deviling Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Add a 60% resistance against Neutral Property attacks.",
@@ -82056,10 +82056,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70114] = {
-		unidentifiedDisplayName = "Elves",
+		unidentifiedDisplayName = "[Elves]",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Eclipse Card",
+		identifiedDisplayName = "[Elves] Eclipse Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Vit +5",
@@ -82075,10 +82075,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70115] = {
-		unidentifiedDisplayName = "Elves",
+		unidentifiedDisplayName = "[Elves]",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Mastering Card",
+		identifiedDisplayName = "[Elves] Mastering Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Luck +5",
@@ -82094,10 +82094,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70116] = {
-		unidentifiedDisplayName = "Elves",
+		unidentifiedDisplayName = "[Elves]",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Toad Card",
+		identifiedDisplayName = "[Elves] Toad Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Dex +5",
@@ -82113,10 +82113,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70117] = {
-		unidentifiedDisplayName = "Elves",
+		unidentifiedDisplayName = "[Elves]",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Vagabond Wolf Card",
+		identifiedDisplayName = "[Elves] Vagabond Wolf Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Str +5",
@@ -82132,10 +82132,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70118] = {
-		unidentifiedDisplayName = "Elves",
+		unidentifiedDisplayName = "[Elves]",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Tower Keeper Card",
+		identifiedDisplayName = "[Elves] Tower Keeper Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Int +5",
@@ -82151,10 +82151,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70119] = {
-		unidentifiedDisplayName = "Elves",
+		unidentifiedDisplayName = "[Elves]",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Vocal Card",
+		identifiedDisplayName = "[Elves] Vocal Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Adds resistance to physical attacks in all elements by 15%.",
@@ -82169,10 +82169,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70120] = {
-		unidentifiedDisplayName = "Elves",
+		unidentifiedDisplayName = "[Elves]",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Rotar Zairo Card",
+		identifiedDisplayName = "[Elves] Rotar Zairo Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Reduce damage from DemiHuman Monster by 40%.",
@@ -82186,10 +82186,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70121] = {
-		unidentifiedDisplayName = "Elves",
+		unidentifiedDisplayName = "[Elves]",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Hydrolancer Card",
+		identifiedDisplayName = "[Elves] Hydrolancer Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Inflict 25% more damage with Fire Bolt.",
@@ -82205,10 +82205,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70122] = {
-		unidentifiedDisplayName = "Elves",
+		unidentifiedDisplayName = "[Elves]",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Maya Purple Card",
+		identifiedDisplayName = "[Elves] Maya Purple Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Int +2",
@@ -82224,10 +82224,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70123] = {
-		unidentifiedDisplayName = "Elves Card",
+		unidentifiedDisplayName = "[Elves] Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Byorgue Card",
+		identifiedDisplayName = "[Elves] Byorgue Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"[^6666CCRogue class^000000]",
@@ -82243,10 +82243,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70124] = {
-		unidentifiedDisplayName = "Elves Cat O' Nine Tails Card",
+		unidentifiedDisplayName = "[Elves] Cat O' Nine Tails Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Cat O' Nine Tails Card",
+		identifiedDisplayName = "[Elves] Cat O' Nine Tails Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Max HP +20%",
@@ -82268,10 +82268,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70125] = {
-		unidentifiedDisplayName = "Elves Arc Angelring Card",
+		unidentifiedDisplayName = "[Elves] Arc Angelring Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Arc Angelring Card",
+		identifiedDisplayName = "[Elves] Arc Angelring Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +10%",
@@ -82292,7 +82292,7 @@ tbl = {
 		unidentifiedDisplayName = "Chimera Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Chimera Card",
+		identifiedDisplayName = "[Elves] Chimera Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +90%",
@@ -82309,10 +82309,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70127] = {
-		unidentifiedDisplayName = "Elves Gryphon Card",
+		unidentifiedDisplayName = "[Elves] Gryphon Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Gryphon Card",
+		identifiedDisplayName = "[Elves] Gryphon Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Inflict 20% more damage with Lord of Vermilion.",
@@ -82329,10 +82329,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70128] = {
-		unidentifiedDisplayName = "Elves Gemini-S58 Card",
+		unidentifiedDisplayName = "[Elves] Gemini-S58 Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Gemini-S58 Card",
+		identifiedDisplayName = "[Elves] Gemini-S58 Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Adds 50% resistance to the ^FF0000Stun^000000 and ^FF0000Silence^000000 if base AGI is 90 or higher.",
@@ -82347,10 +82347,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70129] = {
-		unidentifiedDisplayName = "ElvesEntweihen Crothen Card",
+		unidentifiedDisplayName = "[Elves]Entweihen Crothen Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Entweihen Crothen Card",
+		identifiedDisplayName = "[Elves] Entweihen Crothen Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Matk +100",
@@ -82367,10 +82367,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70130] = {
-		unidentifiedDisplayName = "ElvesGhostring Card",
+		unidentifiedDisplayName = "[Elves]Ghostring Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Ghostring Card",
+		identifiedDisplayName = "[Elves] Ghostring Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +20%",
@@ -82386,10 +82386,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70131] = {
-		unidentifiedDisplayName = "Elves Angelring Card",
+		unidentifiedDisplayName = "[Elves] Angelring Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Angelring Card",
+		identifiedDisplayName = "[Elves] Angelring Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +30%",
@@ -82404,10 +82404,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70132] = {
-		unidentifiedDisplayName = "ElvesMutant Dragonoid Card",
+		unidentifiedDisplayName = "[Elves]Mutant Dragonoid Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Mutant Dragonoid Card",
+		identifiedDisplayName = "[Elves] Mutant Dragonoid Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Increases Crimson Fire Blossom damage by 15%",
@@ -84324,7 +84324,7 @@ tbl = {
 		unidentifiedDisplayName = "Eddga Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Eddga Card",
+		identifiedDisplayName = "[Elves] Eddga Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Increases damage of ^009900Cart Termination^000000 by 25%.",			
@@ -84343,7 +84343,7 @@ tbl = {
 		unidentifiedDisplayName = "Moonlight Flower Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Moonlight Flower Card",
+		identifiedDisplayName = "[Elves] Moonlight Flower Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"+20% Max HP",			
@@ -84362,7 +84362,7 @@ tbl = {
 		unidentifiedDisplayName = "Mistress Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Elves Mistress Card",
+		identifiedDisplayName = "[Elves] Mistress Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Nullifies Gemstone requirement of certain skills.",
@@ -84381,7 +84381,7 @@ tbl = {
 		unidentifiedDisplayName = "Maya Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Maya Card",
+		identifiedDisplayName = "[Elves] Maya Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Enable a 50% chance of reflecting Magic spells, aside from skills which target the ground, cast on the character.",
@@ -84400,7 +84400,7 @@ tbl = {
 		unidentifiedDisplayName = "Phreeoni Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Phreeoni Card",
+		identifiedDisplayName = "[Elves] Phreeoni Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Hit +150",
@@ -84416,10 +84416,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70220] = {
-		unidentifiedDisplayName = "Elves Orc Lord Card",
+		unidentifiedDisplayName = "[Elves] Orc Lord Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Orc Lord Card",
+		identifiedDisplayName = "[Elves] Orc Lord Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +50%",
@@ -84438,7 +84438,7 @@ tbl = {
 		unidentifiedDisplayName = "Turtle General Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Turtle General Card",
+		identifiedDisplayName = "[Elves] Turtle General Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Atk +25%",
@@ -84453,10 +84453,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70222] = {
-		unidentifiedDisplayName = "Elves Osiris Card",
+		unidentifiedDisplayName = "[Elves] Osiris Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Osiris Card",
+		identifiedDisplayName = "[Elves] Osiris Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Increases effectiveness of Healing skills by 10% when they are cast by the wearer.",
@@ -84472,10 +84472,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70223] = {
-		unidentifiedDisplayName = "Elves Doppelganger Card",
+		unidentifiedDisplayName = "[Elves] Doppelganger Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves  Doppelganger Card",
+		identifiedDisplayName = "[Elves]  Doppelganger Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Enable faster Attack Speed so long as the weapon to which this card is compounded is equipped.",
@@ -84493,10 +84493,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70224] = {
-		unidentifiedDisplayName = "Elves Baphomet Card",
+		unidentifiedDisplayName = "[Elves] Baphomet Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Baphomet Card",
+		identifiedDisplayName = "[Elves] Baphomet Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Hit -10",
@@ -84514,7 +84514,7 @@ tbl = {
 		unidentifiedDisplayName = "Incantation Samurai Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Incantation Samurai Card",
+		identifiedDisplayName = "[Elves] Incantation Samurai Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Increases damage on DemiHuman monster by 15%.",
@@ -84535,7 +84535,7 @@ tbl = {
 		unidentifiedDisplayName = "Pharaoh Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Pharaoh Card",
+		identifiedDisplayName = "[Elves] Pharaoh Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Reduces SP cost by 30%.",
@@ -84554,7 +84554,7 @@ tbl = {
 		unidentifiedDisplayName = "Atroce Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Atroce Card",
+		identifiedDisplayName = "[Elves] Atroce Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Atk +25",
@@ -84574,7 +84574,7 @@ tbl = {
 		unidentifiedDisplayName = "Stormy Knight Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Stormy Knight Card",
+		identifiedDisplayName = "[Elves] Stormy Knight Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Add the chance of auto casting ^008800Level 1 Storm Gust^000000 on enemy when doing Physical Attack.",
@@ -84594,7 +84594,7 @@ tbl = {
 		unidentifiedDisplayName = "Dracula Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Dracula Card",
+		identifiedDisplayName = "[Elves] Dracula Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Adds 20% chance of gaining 5% of the damage inflicted on target as SP with each attack.",
@@ -84613,7 +84613,7 @@ tbl = {
 		unidentifiedDisplayName = "Hatii Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Hatii Card",
+		identifiedDisplayName = "[Elves] Hatii Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Has 50% chance of Freezing an enemy when the user receives Physical Damage.",
@@ -84635,7 +84635,7 @@ tbl = {
 		unidentifiedDisplayName = "Boss Egnigem Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Boss Egnigem Card",
+		identifiedDisplayName = "[Elves] Boss Egnigem Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +20%",
@@ -84652,10 +84652,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70232] = {
-		unidentifiedDisplayName = "Elves Vesper Card",
+		unidentifiedDisplayName = "[Elves] Vesper Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Vesper Card",
+		identifiedDisplayName = "[Elves] Vesper Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Dex +2",
@@ -84671,10 +84671,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70233] = {
-		unidentifiedDisplayName = "Elves White Lady Card",
+		unidentifiedDisplayName = "[Elves] White Lady Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves White Lady Card",
+		identifiedDisplayName = "[Elves] White Lady Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Increases effectiveness of Healing skills by 50% when they are cast by the wearer.",
@@ -84692,7 +84692,7 @@ tbl = {
 		unidentifiedDisplayName = "Ktullanux Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Ktullanux Card",
+		identifiedDisplayName = "[Elves] Ktullanux Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +70%",
@@ -84712,7 +84712,7 @@ tbl = {
 		unidentifiedDisplayName = "Detardeurus Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Detardeurus Card",
+		identifiedDisplayName = "[Elves] Detardeurus Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MDEF -20",
@@ -84721,6 +84721,925 @@ tbl = {
 			"Adds a chance of autocasting ^008800Level 1 Land Protector^000000 each time the wearer is magically attacked.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70236] = {
+		unidentifiedDisplayName = "Tao Gunka Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[Elves] Tao Gunka Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MaxHP +100%",
+			"Reduce physical and magical defense by 25%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70237] = {
+		unidentifiedDisplayName = "[Elves] Amon Ra Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[Elves] Amon Ra Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"All stats +1",
+			"MaxHP +20%",
+			"Add the chance of casting ^008800Level 10 Kyrie Eleison^000000 around the user when reciving Physical Damage.",
+			"The chance of casting the skill is increased if the user has 99 INT points.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^999900 Footgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70238] = {
+		unidentifiedDisplayName = "[Elves] Golden Thiefbug Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[Elves] Golden Thiefbug Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"60% Nullify all magic attack, including supportive skills, that target character at the cost of doubling SP Consumption cost when using skills.",
+			"MaxHP +5%",
+			"All stats +5",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6666CC Shield^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70239] = {
+		unidentifiedDisplayName = "[Elves] Lady Tanee Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[Elves] Lady Tanee Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases magic damage to Demihuman monsters by 40%.",
+			"[^008800Sage class^000000]",
+			"Adds a 10% chance to drain 100% SP from any target within 27-27 cells of the user when performing a magical attack.",
+			"_______________________",
+			"Class:^6666CC Card^000000",
+			"Compound on:^999900 Footgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70240] = {
+		unidentifiedDisplayName = "[Elves] Drake Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "[Elves] Drake Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Nullifies reduction in damage against monsters resulting from monster's size.",
+			"Additional 40% Damage on Holy Property Monster",
+			"Atk +10%",
+			"_______________________",
+			"^0000CCType:^000000 Card",
+			"^0000CCCompound on:^000000 Weapon",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70241] = {
+		unidentifiedDisplayName = "[Elves] Kiel-D-01 Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[Elves] Kiel-D-01 Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Reduces after cast delay of all skills by 20%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70242] = {
+		unidentifiedDisplayName = "[Elves] Orc Hero Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[Elves] Orc Hero Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Vit +10",
+			"Reduce physical and magical defense by 3%.",
+			"Prevents ^663399Stun^000000 status.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70243] = {
+		unidentifiedDisplayName = "[Elves] Dark Snake Lord Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[Elves] Dark Snake Lord Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Int +10",
+			"Reduce physical and magical defense by 3%.",
+			"Immune to ^663399Blind^000000 and ^FF0000Curse^000000 state.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70244] = {
+		unidentifiedDisplayName = "[Elves] Gloom Under Night Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[Elves] Gloom Under Night Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases Physical damage to Holy, Shadow, Angel and Demon monsters by 50%.",
+			"MaxHP +20%",
+			"Reduce physical and magical defense by 20%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70245] = {
+		unidentifiedDisplayName = "[Elves] Fallen Bishop Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[Elves] Fallen Bishop Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Matk +15%",
+			"MaxSP -50%",
+			"Increases magic damage to Demihuman and Angel monsters by 50%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^999900 Footgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70246] = {
+		unidentifiedDisplayName = "[Elves] RSX-0806 Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[Elves] RSX-0806 Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Vit +10",
+			"_______________________",
+			"Adds immunity to the Knockback effect.",
+			"_______________________",
+			"Vit Defense rate by 30%",
+			"_______________________",
+			"Additional +110% MaxHP",
+			"_______________________",
+			"Compounded armor is indestructible, but it can still be destroyed by failed upgrade attempts.",
+			"_______________________",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70247] = {
+		unidentifiedDisplayName = "[Elves] Randgris Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[Elves] Randgris Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Atk +20%.",
+			"Adds a chance of autocast ^008800Level 1 Dispell^000000 with each physical attack.",
+			"Make Compounded weapon is indestructible, but it can still be destroyed by failed upgrade attempts.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70248] = {
+		unidentifiedDisplayName = "[Elves] Lord Knight Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[Elves] Lord Knight Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Enables use of Level 1 ^008800Berserk^000000.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70249] = {
+		unidentifiedDisplayName = "[WOE] Eddga Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Eddga Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MaxHP -25%",
+			"Increases damage of ^009900Cart Termination^000000 by 20%.",
+			"_______________________",
+			"Enable effect of the Endure skill so long as the Footgear to which this card is compounded is equipped.",
+			"_______________________",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^999900 Footgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70250] = {
+		unidentifiedDisplayName = "[WOE] Tao Gunka Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Tao Gunka Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MaxHP +100%",
+			"Reduce physical and magical defense by 20%.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70251] = {
+		unidentifiedDisplayName = "[WOE] Amon Ra Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Amon Ra Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"All stats +1",
+			"Add the chance of casting ^008800Level 10 Kyrie Eleison^000000 around the user when reciving Physical Damage.",
+			"The chance of casting the skill is increased if the user has 99 INT points.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^999900 Footgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70252] = {
+		unidentifiedDisplayName = "[WOE] Dracula Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Dracula Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Adds 10% chance of gaining 5% of the damage inflicted on target as SP with each attack.",
+			"_______________________",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70253] = {
+		unidentifiedDisplayName = "[WOE] Golden Thiefbug Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Golden Thiefbug Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"60% Nullify all magic attack, including supportive skills, that target character at the cost of doubling SP Consumption cost when using skills.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6666CC Shield^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70254] = {
+		unidentifiedDisplayName = "[WOE] Phreeoni Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Phreeoni Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Hit +100",
+			"Class:^6666CC Card^000000",
+			"^FF0000this item is account bound^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70255] = {
+		unidentifiedDisplayName = "[WOE] Atroce Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Atroce Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Atk +25",
+			"Atk +10%",
+			"When in physical attack, Reduces after attack delay by 100% for 10 seconds.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70256] = {
+		unidentifiedDisplayName = "[WOE] Lady Tanee Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Lady Tanee Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"[^008800Sage class^000000]",
+			"Adds a 10% chance to drain 100% SP from any target within 27-27 cells of the user when performing a magical attack.",
+			"_______________________",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^999900 Footgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70257] = {
+		unidentifiedDisplayName = "[WOE] Mistress Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "[WOE] Mistress Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Nullifies Gemstone requirement of certain skills.",
+			"Increases SP Consumption by 25%.",
+			"_______________________",
+			"^FF0000this item is account bound^000000",
+			"^0000CCType:^000000 Card",
+			"^0000CCCompound on:^000000 Headgear",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70258] = {
+		unidentifiedDisplayName = "[WOE] Moonlight Flower Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Moonlight Flower Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"+12% Max HP",
+			"_______________________",
+			"+12 Movement Speed so long as the Footgear to which this card is compounded is equipped.",
+			"_______________________",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^999900 Footgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70259] = {
+		unidentifiedDisplayName = "[WOE] Osiris Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Osiris Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Enable full HP and SP restoration when resurrected.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^B40088 Accessory^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70260] = {
+		unidentifiedDisplayName = "[WOE] Drake Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "[WOE] Drake Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Nullifies reduction in damage against monsters resulting from monster's size.",
+			"_______________________",
+			"^FF0000this item is account bound^000000",
+			"^0000CCType:^000000 Card",
+			"^0000CCCompound on:^000000 Weapon",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70261] = {
+		unidentifiedDisplayName = "[WOE] Pharaoh Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "[WOE] Pharaoh Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Decreases SP Consumption by 30%.",
+			"_______________________",
+			"^FF0000this item is account bound^000000",
+			"^0000CCType:^000000 Card",
+			"^0000CCCompound on:^000000 Headgear",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70262] = {
+		unidentifiedDisplayName = "[WOE] Turtle General Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Turtle General Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Atk +20%",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70263] = {
+		unidentifiedDisplayName = "[WOE] Maya Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "[WOE] Maya Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Adds 50% chance of reflecting Magical attacks, aside from skills which target the ground, cast on the character.",
+			"_______________________",
+			"^FF0000this item is account bound^000000",
+			"^0000CCType:^000000 Card",
+			"^0000CCCompound on:^000000 Shield",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70264] = {
+		unidentifiedDisplayName = "[WOE] Doppelganger Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Doppelganger Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Enable faster Attack Speed so long as the weapon to which this card is compounded is equipped.",
+			"_______________________",
+			"Inflict 25% more damage with Critical Attack.",
+			"_______________________",
+			"ASPD +100",
+			"_______________________",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70265] = {
+		unidentifiedDisplayName = "[WOE] Boss Egnigem Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Boss Egnigem Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MaxHP +15%",
+			"MaxSP +15%",
+			"Restores 50 HP and 10 SP every 10 seconds",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^999900 Footgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70266] = {
+		unidentifiedDisplayName = "[WOE] Kiel-D-01 Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Kiel-D-01 Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Reduces after cast delay of all skills by 14.5%.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70267] = {
+		unidentifiedDisplayName = "[WOE] Orc Hero Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Orc Hero Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Vit +3",
+			"Prevents ^663399Stun^000000 status.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70268] = {
+		unidentifiedDisplayName = "[WOE] Dark Snake Lord Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Dark Snake Lord Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Int +3",
+			"Immune to ^663399Blind^000000 and ^FF0000Curse^000000 state.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70269] = {
+		unidentifiedDisplayName = "[WOE] Incantation Samurai Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Incantation Samurai Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Ignores ^6666CCNormal^000000 monster's defense when attacking.",
+			"Disables HP regen.",
+			"Drains 666 HP every 10 seconds.",
+			"Drains 999 HP as the weapon is unequipped.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70270] = {
+		unidentifiedDisplayName = "[WOE] Vesper Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Vesper Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Dex +2",
+			"Ignores 30% of ^6666CCBoss^000000 monster's Magic Defense Rate when inflicting magic attacks against them.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70271] = {
+		unidentifiedDisplayName = "[WOE] Gloom Under Night Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Gloom Under Night Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases Physical damage to Holy, Shadow, Angel and Demon monsters by 40%.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70272] = {
+		unidentifiedDisplayName = "[WOE] White Lady Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] White Lady Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases effectiveness of Healing skills by 30% when they are cast by the wearer.",
+			"Increases SP consumption by 15%.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70273] = {
+		unidentifiedDisplayName = "[WOE] Fallen Bishop Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Fallen Bishop Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Matk +10%",
+			"MaxSP -50%",
+			"Increases magic damage to Demihuman and Angel monsters by 50%.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^999900 Footgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70274] = {
+		unidentifiedDisplayName = "[WOE] Baphomet Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Baphomet Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Hit -10",
+			"Endow a weapon with damage that will splash 9 cells around the character with each attack.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70277] = {
+		unidentifiedDisplayName = "[WOE] Detardeurus Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Detardeurus Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MDEF -20",
+			"MaxHP +20%",
+			"Gains immunity against ^FF0000Frozen^000000 status.",
+			"Adds a chance of autocasting ^008800Level 1 Land Protector^000000 each time the wearer is magically attacked.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70278] = {
+		unidentifiedDisplayName = "[WOE] Ifrit Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Ifrit Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"ATK, CRI, HIT is increased depending on the wearer's job level.",
+			"Has a low chance of autocast ^FF0000Earthquake^000000 when receives a physical attack.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^B40088 Accessory^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70279] = {
+		unidentifiedDisplayName = "[WOE] Lord of The Dead Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Lord of The Dead Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Add the chance of auto casting ^FF0000Coma^000000 on an enemy.",
+			"Add the chance of auto casting ^FF0000Stun, Curse, Silence, Poison^000000 or ^FF0000Bleeding^000000 in random when attacking the enemy.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70280] = {
+		unidentifiedDisplayName = "[WOE] Orc Lord Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Orc Lord Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Reflect 50% of all melee physical damage back to attacker.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70281] = {
+		unidentifiedDisplayName = "[WOE] RSX-0806 Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] RSX-0806 Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Vit +3",
+			"_______________________",
+			"Adds immunity to the Knockback effect.",
+			"_______________________",
+			"Vit Defense rate by 30%",
+			"_______________________",
+			"Additional +90% MaxHP",
+			"_______________________",
+			"Compounded armor is indestructible, but it can still be destroyed by failed upgrade attempts.",
+			"_______________________",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70282] = {
+		unidentifiedDisplayName = "[WOE] Stormy Knight Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Stormy Knight Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Add the chance of auto casting ^008800Level 1 Storm Gust^000000 on enemy when doing Physical Attack.",
+			"Has 20% chance of ^FF0000Freezing^000000 an enemy when attacking.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70283] = {
+		unidentifiedDisplayName = "[WOE] Randgris Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Randgris Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Atk +10%.",
+			"Adds a chance of autocast ^008800Level 1 Dispell^000000 with each physical attack.",
+			"Make Compounded weapon is indestructible, but it can still be destroyed by failed upgrade attempts.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70284] = {
+		unidentifiedDisplayName = "[WOE] Lord Knight Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[WOE] Lord Knight Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MaxHP -50%",
+			"Enables use of Level 1 ^008800Berserk^000000.",
+			"^FF0000this item is account bound^000000",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6600FF Headgear^000000",
 			"Weight:^009900 1^000000"
 		},
 		slotCount = 0,
