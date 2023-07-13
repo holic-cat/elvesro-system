@@ -80851,7 +80851,7 @@ tbl = {
 			"^0000CCAttack:^000000 80",
 			"^0000CCWeight:^000000 60",
 			"^0000CCWeapon Level:^000000 4",
-			"^0000CCCan be enchanted by:^000000",
+			"^0000CCCan be Quest to:^000000",
 			"<NAVI>Brokkr<INFO>prt_in,124,64,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCRequirement:^000000",
