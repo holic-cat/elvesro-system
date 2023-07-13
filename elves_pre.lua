@@ -81358,6 +81358,8 @@ tbl = {
 		identifiedResourceName = "quincyrosary",
 		identifiedDescriptionName = {
 			"A rosary belonging to the Quincy Clan, a group of Hollow slayers that were annihilated 210 years ago by the Soul Reapers in order to keep the balance of souls correct. Gathers spirit energy in order to form an immaterial bow that exterminates ghosts, but drains energy from user.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Mr. Quincy<INFO>geffen,140,70,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"INT +10",
 			"LUK +30",
