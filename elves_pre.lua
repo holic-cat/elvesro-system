@@ -85518,6 +85518,21 @@ tbl = {
 		costume = false,
 		EffectID = 1186
 	},
+	[7539] = {
+		unidentifiedDisplayName = "Poring Coin",
+		unidentifiedResourceName = "포링코인",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Poring Coin",
+		identifiedResourceName = "포링코인",
+		identifiedDescriptionName = {
+			"A small coin with a monster Poring engraved in it.",
+			"^0000CCCan be Exchange to:^000000",
+			"<NAVI>Hecker<INFO>prontera,170,181,0,100,0,0</INFO></NAVI>",
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 }
 
 -- Now for a helper function because i hate repetitions 
