@@ -85533,6 +85533,105 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[480158] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Lunatic Bag",
+		identifiedResourceName = "C_Lunatic_Bag",
+		identifiedDescriptionName = {
+			"A backpack shaped like a Lunatic.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 123,
+		costume = true
+	},
+	[480117] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Electric Guitar Of Phen",
+		identifiedResourceName = "C_Elec_Guitar_Of_Phen",
+		identifiedDescriptionName = {
+			"Phen Guitar.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 108,,
+		costume = true
+	},
+	[480119] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Niflheim Key",
+		identifiedResourceName = "C_Niflheim_Key",
+		identifiedDescriptionName = {
+			"A key for costumes with a cube motif.",
+			"If you look inside the key, the scenery of Niflheim Street spreads out.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 110,,
+		costume = true
+	},
+	[480127] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Hooked Straw Hat",
+		identifiedResourceName = "C_Hooked_Straw_Hat",
+		identifiedDescriptionName = {
+			"A hat worn around the neck instead of the head.",
+			"It features a sunflower brooch decorated with a refreshing sky blue ribbon.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 115,
+		costume = true
+	},
+	[20612] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Hooked Straw Hat",
+		identifiedResourceName = "Ten_G_Shield_TW",
+		identifiedDescriptionName = {
+			"A hat worn around the neck instead of the head.",
+			"It features a sunflower brooch decorated with a refreshing sky blue ribbon.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 90,
+		costume = true
+	},
+
 }
 
 -- Now for a helper function because i hate repetitions 
