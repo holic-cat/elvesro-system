@@ -80320,7 +80320,15 @@ tbl = {
 		identifiedDisplayName = "Vengeance Aura",
 		identifiedResourceName = "vengeance_aura",
 		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
 		ClassNum = 3010
@@ -80334,7 +80342,15 @@ tbl = {
 		identifiedDisplayName = "Atomic Aura",
 		identifiedResourceName = "estefanatomicenergy",
 		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
 		ClassNum = 3192
@@ -80348,7 +80364,15 @@ tbl = {
 		identifiedDisplayName = "Gold Amaterasu",
 		identifiedResourceName = "Brown_Abbadon_Aura_1",
 		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
 		ClassNum = 3332
@@ -80362,7 +80386,15 @@ tbl = {
 		identifiedDisplayName = "Amaterasu",
 		identifiedResourceName = "Abbadon_Aura",
 		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
 		ClassNum = 3335
@@ -80376,7 +80408,15 @@ tbl = {
 		identifiedDisplayName = "Red Electric Aura",
 		identifiedResourceName = "pinkgodaura",
 		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
 		ClassNum = 3716
@@ -80390,7 +80430,15 @@ tbl = {
 		identifiedDisplayName = "Blue Electric Aura",
 		identifiedResourceName = "mysticalgodaura",
 		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
 		ClassNum = 3717
@@ -80404,7 +80452,15 @@ tbl = {
 		identifiedDisplayName = "Black Vicious Aura",
 		identifiedResourceName = "Black_Chakra_of_Destiny",
 		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
 		ClassNum = 3820
@@ -80805,6 +80861,8 @@ tbl = {
 		identifiedResourceName = "mysticstrongaura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -80824,6 +80882,8 @@ tbl = {
 		identifiedResourceName = "purplestrongaura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -80843,6 +80903,8 @@ tbl = {
 		identifiedResourceName = "redstrongaura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -80862,6 +80924,8 @@ tbl = {
 		identifiedResourceName = "strongaura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -80881,6 +80945,8 @@ tbl = {
 		identifiedResourceName = "atlantis_aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -80900,6 +80966,8 @@ tbl = {
 		identifiedResourceName = "Estefan_Divine_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -81185,6 +81253,8 @@ tbl = {
 		identifiedResourceName = "White_Elfs_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Elf Carm Stealer<INFO>prontera,183,194,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -81204,6 +81274,8 @@ tbl = {
 		identifiedResourceName = "Red_Elfs_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Elf Carm Stealer<INFO>prontera,183,194,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -81223,6 +81295,8 @@ tbl = {
 		identifiedResourceName = "Purple_Elfs_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Elf Carm Stealer<INFO>prontera,183,194,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -81242,6 +81316,8 @@ tbl = {
 		identifiedResourceName = "Pink_Elfs_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Elf Carm Stealer<INFO>prontera,183,194,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -81261,6 +81337,8 @@ tbl = {
 		identifiedResourceName = "Orang_Elfs_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Elf Carm Stealer<INFO>prontera,183,194,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -81280,6 +81358,8 @@ tbl = {
 		identifiedResourceName = "Green_Elfs_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Elf Carm Stealer<INFO>prontera,183,194,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -81299,6 +81379,8 @@ tbl = {
 		identifiedResourceName = "Cyan_Elfs_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Elf Carm Stealer<INFO>prontera,183,194,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -81318,6 +81400,8 @@ tbl = {
 		identifiedResourceName = "Blue_Elfs_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Elf Carm Stealer<INFO>prontera,183,194,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -81337,6 +81421,8 @@ tbl = {
 		identifiedResourceName = "Black_Elfs_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Elf Carm Stealer<INFO>prontera,183,194,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82606,6 +82692,8 @@ tbl = {
 		identifiedResourceName = "Cyan_Flame_Spirit",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82625,6 +82713,8 @@ tbl = {
 		identifiedResourceName = "Blue_Flame_Spirit",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82644,6 +82734,8 @@ tbl = {
 		identifiedResourceName = "Red_Flame_Spirit",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82663,6 +82755,8 @@ tbl = {
 		identifiedResourceName = "Green_Flame_Spirit",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82682,6 +82776,8 @@ tbl = {
 		identifiedResourceName = "White_Flame_Spirit",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82701,6 +82797,8 @@ tbl = {
 		identifiedResourceName = "Black_Flame_Spirit",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82720,6 +82818,8 @@ tbl = {
 		identifiedResourceName = "Gold_Flame_Spirit",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82739,6 +82839,8 @@ tbl = {
 		identifiedResourceName = "Green_Zeus_Aura_1",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82758,6 +82860,8 @@ tbl = {
 		identifiedResourceName = "Ice_Chakra_Aura_1",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82777,6 +82881,8 @@ tbl = {
 		identifiedResourceName = "Ice_Circle_Chakra_1",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82796,6 +82902,8 @@ tbl = {
 		identifiedResourceName = "circleaurablue",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82815,6 +82923,8 @@ tbl = {
 		identifiedResourceName = "godaura_blue",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82834,6 +82944,8 @@ tbl = {
 		identifiedResourceName = "Rainbow_Perfect_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82853,6 +82965,8 @@ tbl = {
 		identifiedResourceName = "Black_Perfect_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82872,6 +82986,8 @@ tbl = {
 		identifiedResourceName = "Blue_Perfect_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82891,6 +83007,8 @@ tbl = {
 		identifiedResourceName = "Green_Perfect_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82910,6 +83028,8 @@ tbl = {
 		identifiedResourceName = "LPurple_Perfect_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82929,6 +83049,8 @@ tbl = {
 		identifiedResourceName = "Red_Perfect_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82948,6 +83070,8 @@ tbl = {
 		identifiedResourceName = "White_Perfect_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82967,6 +83091,8 @@ tbl = {
 		identifiedResourceName = "Gold_Perfect_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -82986,6 +83112,8 @@ tbl = {
 		identifiedResourceName = "handofgodaura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -83043,6 +83171,8 @@ tbl = {
 		identifiedResourceName = "yomandaaura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -85568,7 +85698,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 108,,
+		ClassNum = 108,
 		costume = true
 	},
 	[480119] = {
