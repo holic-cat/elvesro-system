@@ -1669,6 +1669,10 @@ tbl = {
 			"Int +2",
 			"Vit +3",
 			"Mdef +3",
+			"_______________________",
+			"Treasure Island is where you can find it, so please refer to the event details for additional information.",
+			"<NAVI>Event Information<INFO>prontera,163,176,0,100,0,0</INFO></NAVI>^000000",
+			"_______________________",
 			"^663399Indestructible^000000",
 			"Class:^6666CC Shield^000000",
 			"Defense:^0000FF 5^000000",
@@ -58775,6 +58779,8 @@ tbl = {
 		identifiedResourceName = "Å¾½Â¿ë°í»ß",
 		identifiedDescriptionName = {
 			"A mysterious halter that summon creature to ride on.",
+			"Treasure Island is where you can find it, so please refer to the event details for additional information.",
+			"<NAVI>Event Information<INFO>prontera,163,176,0,100,0,0</INFO></NAVI>^000000",
 			"Weight:^009900 0^000000"
 		},
 		slotCount = 0,
@@ -77192,6 +77198,8 @@ tbl = {
 			"It's written about the hidden skill, Open Celestial Gate.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"Treasure Island is where you can find it, so please refer to the event details for additional information.",
+			"<NAVI>Event Information<INFO>prontera,163,176,0,100,0,0</INFO></NAVI>^000000",
 			"_______________________",
 			"Weight : ^7777770^000000"
 		},
@@ -77282,6 +77290,8 @@ tbl = {
 			"It's written about the hidden skill, Shadowstep.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"Treasure Island is where you can find it, so please refer to the event details for additional information.",
+			"<NAVI>Event Information<INFO>prontera,163,176,0,100,0,0</INFO></NAVI>^000000",
 			"_______________________",
 			"Weight : ^7777770^000000"
 		},
@@ -77372,6 +77382,8 @@ tbl = {
 			"It's written about the hidden skill, Summon Wolves.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"Treasure Island is where you can find it, so please refer to the event details for additional information.",
+			"<NAVI>Event Information<INFO>prontera,163,176,0,100,0,0</INFO></NAVI>^000000",
 			"_______________________",
 			"Weight : ^7777770^000000"
 		},
@@ -77462,6 +77474,8 @@ tbl = {
 			"It's written about the hidden skill, Summon Spirit Bear.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"Treasure Island is where you can find it, so please refer to the event details for additional information.",
+			"<NAVI>Event Information<INFO>prontera,163,176,0,100,0,0</INFO></NAVI>^000000",
 			"_______________________",
 			"Weight : ^7777770^000000"
 		},
@@ -77552,6 +77566,8 @@ tbl = {
 			"It's written about the hidden skill, Mirror Image.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"Treasure Island is where you can find it, so please refer to the event details for additional information.",
+			"<NAVI>Event Information<INFO>prontera,163,176,0,100,0,0</INFO></NAVI>^000000",
 			"_______________________",
 			"Weight : ^7777770^000000"
 		},
@@ -77642,6 +77658,8 @@ tbl = {
 			"It's written about the hidden skill, Nature's Embrace.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"Treasure Island is where you can find it, so please refer to the event details for additional information.",
+			"<NAVI>Event Information<INFO>prontera,163,176,0,100,0,0</INFO></NAVI>^000000",
 			"_______________________",
 			"Weight : ^7777770^000000"
 		},
@@ -77732,6 +77750,8 @@ tbl = {
 			"It's written about the hidden skill, Reverse Polarity.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"Treasure Island is where you can find it, so please refer to the event details for additional information.",
+			"<NAVI>Event Information<INFO>prontera,163,176,0,100,0,0</INFO></NAVI>^000000",
 			"_______________________",
 			"Weight : ^7777770^000000"
 		},
@@ -81482,6 +81502,9 @@ tbl = {
 			"_______________________",
 			"^0000FFRefine Level +9^000000:",
 			"Decreases damage taken from ^FF0000Fire^000000, ^CC5500Earth^000000, ^009900Water^000000 and ^33CC00Wind^000000 elemental attacks by 5%.",
+			"_______________________",
+			"Treasure Island is where you can find it, so please refer to the event details for additional information.",
+			"<NAVI>Event Information<INFO>prontera,163,176,0,100,0,0</INFO></NAVI>^000000",
 			"_______________________",
 			"^0000CCType:^000000 Shield",
 			"^0000CCDefense:^000000 3",
@@ -85718,7 +85741,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 110,,
+		ClassNum = 110,
 		costume = true
 	},
 	[480127] = {
