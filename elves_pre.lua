@@ -85009,10 +85009,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70249] = {
-		unidentifiedDisplayName = "[WOE/PVP] Eddga Card",
+		unidentifiedDisplayName = "[GP] Eddga Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Eddga Card",
+		identifiedDisplayName = "[GP] Eddga Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP -25%",
@@ -85031,10 +85031,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70250] = {
-		unidentifiedDisplayName = "[WOE/PVP] Tao Gunka Card",
+		unidentifiedDisplayName = "[GP] Tao Gunka Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Tao Gunka Card",
+		identifiedDisplayName = "[GP] Tao Gunka Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +100%",
@@ -85050,10 +85050,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70251] = {
-		unidentifiedDisplayName = "[WOE/PVP] Amon Ra Card",
+		unidentifiedDisplayName = "[GP] Amon Ra Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Amon Ra Card",
+		identifiedDisplayName = "[GP] Amon Ra Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"All stats +1",
@@ -85070,10 +85070,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70252] = {
-		unidentifiedDisplayName = "[WOE/PVP] Dracula Card",
+		unidentifiedDisplayName = "[GP] Dracula Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Dracula Card",
+		identifiedDisplayName = "[GP] Dracula Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Adds 10% chance of gaining 5% of the damage inflicted on target as SP with each attack.",
@@ -85089,10 +85089,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70253] = {
-		unidentifiedDisplayName = "[WOE/PVP] Golden Thiefbug Card",
+		unidentifiedDisplayName = "[GP] Golden Thiefbug Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Golden Thiefbug Card",
+		identifiedDisplayName = "[GP] Golden Thiefbug Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"60% Nullify all magic attack, including supportive skills, that target character at the cost of doubling SP Consumption cost when using skills.",
@@ -85107,10 +85107,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70254] = {
-		unidentifiedDisplayName = "[WOE/PVP] Phreeoni Card",
+		unidentifiedDisplayName = "[GP] Phreeoni Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Phreeoni Card",
+		identifiedDisplayName = "[GP] Phreeoni Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Hit +100",
@@ -85125,10 +85125,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70255] = {
-		unidentifiedDisplayName = "[WOE/PVP] Atroce Card",
+		unidentifiedDisplayName = "[GP] Atroce Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Atroce Card",
+		identifiedDisplayName = "[GP] Atroce Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Atk +25",
@@ -85145,10 +85145,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70256] = {
-		unidentifiedDisplayName = "[WOE/PVP] Lady Tanee Card",
+		unidentifiedDisplayName = "[GP] Lady Tanee Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Lady Tanee Card",
+		identifiedDisplayName = "[GP] Lady Tanee Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"[^008800Sage class^000000]",
@@ -85165,10 +85165,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70257] = {
-		unidentifiedDisplayName = "[WOE/PVP] Mistress Card",
+		unidentifiedDisplayName = "[GP] Mistress Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "[WOE/PVP] Mistress Card",
+		identifiedDisplayName = "[GP] Mistress Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Nullifies Gemstone requirement of certain skills.",
@@ -85185,10 +85185,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70258] = {
-		unidentifiedDisplayName = "[WOE/PVP] Moonlight Flower Card",
+		unidentifiedDisplayName = "[GP] Moonlight Flower Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Moonlight Flower Card",
+		identifiedDisplayName = "[GP] Moonlight Flower Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"+12% Max HP",
@@ -85206,10 +85206,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70259] = {
-		unidentifiedDisplayName = "[WOE/PVP] Osiris Card",
+		unidentifiedDisplayName = "[GP] Osiris Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Osiris Card",
+		identifiedDisplayName = "[GP] Osiris Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Enable full HP and SP restoration when resurrected.",
@@ -85224,10 +85224,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70260] = {
-		unidentifiedDisplayName = "[WOE/PVP] Drake Card",
+		unidentifiedDisplayName = "[GP] Drake Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "[WOE/PVP] Drake Card",
+		identifiedDisplayName = "[GP] Drake Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Nullifies reduction in damage against monsters resulting from monster's size.",
@@ -85243,10 +85243,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70261] = {
-		unidentifiedDisplayName = "[WOE/PVP] Pharaoh Card",
+		unidentifiedDisplayName = "[GP] Pharaoh Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "[WOE/PVP] Pharaoh Card",
+		identifiedDisplayName = "[GP] Pharaoh Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Decreases SP Consumption by 30%.",
@@ -85262,10 +85262,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70262] = {
-		unidentifiedDisplayName = "[WOE/PVP] Turtle General Card",
+		unidentifiedDisplayName = "[GP] Turtle General Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Turtle General Card",
+		identifiedDisplayName = "[GP] Turtle General Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Atk +20%",
@@ -85280,10 +85280,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70263] = {
-		unidentifiedDisplayName = "[WOE/PVP] Maya Card",
+		unidentifiedDisplayName = "[GP] Maya Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "[WOE/PVP] Maya Card",
+		identifiedDisplayName = "[GP] Maya Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Adds 50% chance of reflecting Magical attacks, aside from skills which target the ground, cast on the character.",
@@ -85299,10 +85299,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70264] = {
-		unidentifiedDisplayName = "[WOE/PVP] Doppelganger Card",
+		unidentifiedDisplayName = "[GP] Doppelganger Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Doppelganger Card",
+		identifiedDisplayName = "[GP] Doppelganger Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Enable faster Attack Speed so long as the weapon to which this card is compounded is equipped.",
@@ -85322,10 +85322,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70265] = {
-		unidentifiedDisplayName = "[WOE/PVP] Boss Egnigem Card",
+		unidentifiedDisplayName = "[GP] Boss Egnigem Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Boss Egnigem Card",
+		identifiedDisplayName = "[GP] Boss Egnigem Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +15%",
@@ -85342,10 +85342,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70266] = {
-		unidentifiedDisplayName = "[WOE/PVP] Kiel-D-01 Card",
+		unidentifiedDisplayName = "[GP] Kiel-D-01 Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Kiel-D-01 Card",
+		identifiedDisplayName = "[GP] Kiel-D-01 Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Reduces after cast delay of all skills by 14.5%.",
@@ -85360,10 +85360,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70267] = {
-		unidentifiedDisplayName = "[WOE/PVP] Orc Hero Card",
+		unidentifiedDisplayName = "[GP] Orc Hero Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Orc Hero Card",
+		identifiedDisplayName = "[GP] Orc Hero Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Vit +3",
@@ -85379,10 +85379,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70268] = {
-		unidentifiedDisplayName = "[WOE/PVP] Dark Snake Lord Card",
+		unidentifiedDisplayName = "[GP] Dark Snake Lord Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Dark Snake Lord Card",
+		identifiedDisplayName = "[GP] Dark Snake Lord Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Int +3",
@@ -85398,10 +85398,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70269] = {
-		unidentifiedDisplayName = "[WOE/PVP] Incantation Samurai Card",
+		unidentifiedDisplayName = "[GP] Incantation Samurai Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Incantation Samurai Card",
+		identifiedDisplayName = "[GP] Incantation Samurai Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Ignores ^6666CCNormal^000000 monster's defense when attacking.",
@@ -85419,10 +85419,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70270] = {
-		unidentifiedDisplayName = "[WOE/PVP] Vesper Card",
+		unidentifiedDisplayName = "[GP] Vesper Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Vesper Card",
+		identifiedDisplayName = "[GP] Vesper Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Dex +2",
@@ -85438,10 +85438,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70271] = {
-		unidentifiedDisplayName = "[WOE/PVP] Gloom Under Night Card",
+		unidentifiedDisplayName = "[GP] Gloom Under Night Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Gloom Under Night Card",
+		identifiedDisplayName = "[GP] Gloom Under Night Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Increases Physical damage to Holy, Shadow, Angel and Demon monsters by 40%.",
@@ -85456,10 +85456,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70272] = {
-		unidentifiedDisplayName = "[WOE/PVP] White Lady Card",
+		unidentifiedDisplayName = "[GP] White Lady Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] White Lady Card",
+		identifiedDisplayName = "[GP] White Lady Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Increases effectiveness of Healing skills by 30% when they are cast by the wearer.",
@@ -85475,10 +85475,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70273] = {
-		unidentifiedDisplayName = "[WOE/PVP] Fallen Bishop Card",
+		unidentifiedDisplayName = "[GP] Fallen Bishop Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Fallen Bishop Card",
+		identifiedDisplayName = "[GP] Fallen Bishop Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Matk +10%",
@@ -85495,10 +85495,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70274] = {
-		unidentifiedDisplayName = "[WOE/PVP] Baphomet Card",
+		unidentifiedDisplayName = "[GP] Baphomet Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Baphomet Card",
+		identifiedDisplayName = "[GP] Baphomet Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Hit -10",
@@ -85514,10 +85514,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70277] = {
-		unidentifiedDisplayName = "[WOE/PVP] Detardeurus Card",
+		unidentifiedDisplayName = "[GP] Detardeurus Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Detardeurus Card",
+		identifiedDisplayName = "[GP] Detardeurus Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MDEF -20",
@@ -85535,10 +85535,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70278] = {
-		unidentifiedDisplayName = "[WOE/PVP] Ifrit Card",
+		unidentifiedDisplayName = "[GP] Ifrit Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Ifrit Card",
+		identifiedDisplayName = "[GP] Ifrit Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"ATK, CRI, HIT is increased depending on the wearer's job level.",
@@ -85554,10 +85554,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70279] = {
-		unidentifiedDisplayName = "[WOE/PVP] Lord of The Dead Card",
+		unidentifiedDisplayName = "[GP] Lord of The Dead Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Lord of The Dead Card",
+		identifiedDisplayName = "[GP] Lord of The Dead Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Add the chance of auto casting ^FF0000Coma^000000 on an enemy.",
@@ -85573,10 +85573,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70280] = {
-		unidentifiedDisplayName = "[WOE/PVP] Orc Lord Card",
+		unidentifiedDisplayName = "[GP] Orc Lord Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Orc Lord Card",
+		identifiedDisplayName = "[GP] Orc Lord Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Reflect 50% of all melee physical damage back to attacker.",
@@ -85591,10 +85591,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70281] = {
-		unidentifiedDisplayName = "[WOE/PVP] RSX-0806 Card",
+		unidentifiedDisplayName = "[GP] RSX-0806 Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] RSX-0806 Card",
+		identifiedDisplayName = "[GP] RSX-0806 Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Vit +3",
@@ -85618,10 +85618,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70282] = {
-		unidentifiedDisplayName = "[WOE/PVP] Stormy Knight Card",
+		unidentifiedDisplayName = "[GP] Stormy Knight Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Stormy Knight Card",
+		identifiedDisplayName = "[GP] Stormy Knight Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Add the chance of auto casting ^008800Level 1 Storm Gust^000000 on enemy when doing Physical Attack.",
@@ -85637,10 +85637,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70283] = {
-		unidentifiedDisplayName = "[WOE/PVP] Randgris Card",
+		unidentifiedDisplayName = "[GP] Randgris Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Randgris Card",
+		identifiedDisplayName = "[GP] Randgris Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Atk +10%.",
@@ -85657,10 +85657,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70284] = {
-		unidentifiedDisplayName = "[WOE/PVP] Lord Knight Card",
+		unidentifiedDisplayName = "[GP] Lord Knight Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[WOE/PVP] Lord Knight Card",
+		identifiedDisplayName = "[GP] Lord Knight Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP -50%",
@@ -85873,7 +85873,7 @@ tbl = {
 			"^0000CCType:^000000 Dagger",
 			"^0000CCAttack:^000000 105",
 			"^0000CCWeight:^000000 0",
-			"^0000CCWeapon Level:^000000 1",
+			"^0000CCWeapon Level:^000000 4",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
 			"^0000CCRequirement:^000000",
