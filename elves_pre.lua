@@ -70564,7 +70564,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"An accessory which is traditionally used in piercings by the Umbala tribespeople.",
 			"_______________________",
-			"MaxHP -15%",
+			"MaxHP -20%",
 			"_______________________",
 			"Random chance a defeated monster will drop ^0033CCMeat^000000.",
 			"_______________________",
