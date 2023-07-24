@@ -6589,6 +6589,7 @@ tbl = {
 		identifiedDisplayName = "[GP] Sleipnir",
 		identifiedResourceName = "슬레이프니르",
 		identifiedDescriptionName = {
+			"^FF0000Cannot be traded^000000",
 			"Named after Odin's trusty steed, these shoes also mimic Sleipnir's powers.",
 			"Increase Movement Speed.",
 			"Maximum HP and SP +20%",
@@ -11072,6 +11073,7 @@ tbl = {
 		identifiedDisplayName = "[GP] Megingjord",
 		identifiedResourceName = "메긴기오르드",
 		identifiedDescriptionName = {
+			"^FF0000Cannot be traded^000000",
 			"A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.",
 			"Str +40, Mdef +7",
 			"Class:^6666CC Accessory^000000",
@@ -11091,6 +11093,7 @@ tbl = {
 		identifiedDisplayName = "[GP] Brisingamen",
 		identifiedResourceName = "브리싱가멘",
 		identifiedDescriptionName = {
+			"^FF0000Cannot be traded^000000",
 			"An imitation of the necklace worn by the beautiful goddess Freya.",
 			"STR, AGI, INT, Vit +6",
 			"Luk +10, Mdef +5",
@@ -81856,6 +81859,7 @@ tbl = {
 		identifiedDisplayName = "[GP] Asprika",
 		identifiedResourceName = "아스프리카",
 		identifiedDescriptionName = {
+			"^FF0000Cannot be traded^000000",
 			"A wing made of all lights that exist in the world. It's name means 'Light of the gods'.",
 			"FLEE +30",
 			"Mdef +5.",
@@ -85850,6 +85854,33 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 8,
+		costume = false
+	},
+	[13044] = {
+		unidentifiedDisplayName = "Unidentified Dagger",
+		unidentifiedResourceName = "나이프",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "[GP] Ice Pick",
+		identifiedResourceName = "송곳",
+		identifiedDescriptionName = {
+			"^000088Bounded Item^000000",
+			"A thin, sharp weapon that looks capable of penetrating armor.",
+			"_______________________",
+			"Deals more damage depending on the target's Defense.",
+			"_______________________",
+			"Random chance to increase FLEE by 20 when dealing physical damage.",
+			"_______________________",
+			"^0000CCType:^000000 Dagger",
+			"^0000CCAttack:^000000 105",
+			"^0000CCWeight:^000000 0",
+			"^0000CCWeapon Level:^000000 1",
+			"^0000CCRefineable:^000000 No",
+			"_______________________",
+			"^0000CCRequirement:^000000",
+			"Swordsman, Magician, Archer, Merchant, Thief, Soul Linker and Ninja classes"
+		},
+		slotCount = 0,
+		ClassNum = 1,
 		costume = false
 	},
 
