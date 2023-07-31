@@ -86407,6 +86407,24 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[420112] = {
+		unidentifiedDisplayName = "Unidentified Ribbon",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Guardian Claus",
+		identifiedResourceName = "Guardian_Claus",
+		identifiedDescriptionName = {
+			"A avant-garde shoulder guard that combines excellent protection and mobility.",				
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3283
+	},
 
 }
 
