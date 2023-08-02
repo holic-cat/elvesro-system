@@ -82156,7 +82156,7 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Adds resistance to physical attacks in all elements by 15%.",
-			"Increases resistance against ^777777Neutral^000000 elemental attack by 5%.",
+			"Increases resistance against ^777777Neutral^000000 elemental attack by 20%.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^008C99 Garment^000000",
 			"Weight:^009900 1^000000"
