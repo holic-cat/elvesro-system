@@ -74918,6 +74918,7 @@ tbl = {
 		identifiedResourceName = "대형마제스틱고우트",
 		identifiedDescriptionName = {
 			"A headgear made from the horns of Baphomet.",
+			"^0000CCDrop By World Boss Baphomet^000000",
 			"STR +5 , INT +5",
 			"VIT +10 , AGI +10",
 			"LUK +20 , MDEF +10",
@@ -86433,6 +86434,35 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 3283
+	},
+	[20006] = {
+		unidentifiedDisplayName = "Unidentified Helmet",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Dark Knight Mask Kaho's Horn",
+		identifiedResourceName = "다크나이트마스크",
+		identifiedDescriptionName = {
+			"A mask worn by a knight that used dark magic to curse anyone who wore it but him.",
+			"^0000CCDrop By World Boss Chronos^000000",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 479,
+		costume = true
 	},
 
 }
