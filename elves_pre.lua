@@ -85847,7 +85847,6 @@ tbl = {
 			"_______________________",
 			"^0000FFFor each 1 Refine Levels^000000:",
 			"+10 Int",
-			"Increases Variable Casting Time by 1%.",
 			"_______________________",
 			"^0000CCType:^000000 Mace",
 			"^0000CCAttack:^000000 50",
