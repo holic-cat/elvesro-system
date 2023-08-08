@@ -6586,16 +6586,20 @@ tbl = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "[GP] Sleipnir",
+		identifiedDisplayName = "[GP]Sleipnir",
 		identifiedResourceName = "슬레이프니르",
 		identifiedDescriptionName = {
 			"^FF0000Cannot be traded^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Named after Odin's trusty steed, these shoes also mimic Sleipnir's powers.",
 			"Increase Movement Speed.",
 			"Maximum HP and SP +20%",
 			"SP Recovery +15%, Mdef +10",
 			"^FF0000Unrefineable^000000",
 			"^663399Indestructible^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Footgear^000000",
 			"Defense:^0000FF 4^000000",
 			"Weight:^009900 0^000000",
@@ -11070,10 +11074,12 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "[GP] Megingjord",
+		identifiedDisplayName = "[GP]Megingjord",
 		identifiedResourceName = "메긴기오르드",
 		identifiedDescriptionName = {
 			"^FF0000Cannot be traded^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.",
 			"Str +40, Mdef +7",
 			"Class:^6666CC Accessory^000000",
@@ -11090,10 +11096,12 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "[GP] Brisingamen",
+		identifiedDisplayName = "[GP]Brisingamen",
 		identifiedResourceName = "브리싱가멘",
 		identifiedDescriptionName = {
 			"^FF0000Cannot be traded^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"An imitation of the necklace worn by the beautiful goddess Freya.",
 			"STR, AGI, INT, Vit +6",
 			"Luk +10, Mdef +5",
@@ -78248,6 +78256,8 @@ tbl = {
 		identifiedDescriptionName = {
 			"A special headgear created specifically for Lord Kaho...",
 			"Whoever he is.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Str +5",
 			"Int +5",
 			"Vit +10",
@@ -78271,6 +78281,8 @@ tbl = {
 		identifiedDisplayName = "[GP]Ice pick",
 		identifiedResourceName = "송곳",
 		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"An ice pick that's usually used for piercing solid ice or wood.",
 			"Deals more damage depending on the target's Defense.",
 			"Class:^6666CC Dagger^000000",
@@ -80802,7 +80814,7 @@ tbl = {
 			"Increase 1% Damage Per Refine.",
 			"_______________________",
 			"^0000CCType:^000000 Dagger",
-			"^0000CCAttack:^000000 80",
+			"^0000CCAttack:^000000 100",
 			"^0000CCWeight:^000000 60",
 			"^0000CCWeapon Level:^000000 4",
 			"^0000CCCan be Quest to:^000000",
@@ -81871,10 +81883,12 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "[GP] Asprika",
+		identifiedDisplayName = "[GP]Asprika",
 		identifiedResourceName = "아스프리카",
 		identifiedDescriptionName = {
 			"^FF0000Cannot be traded^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"A wing made of all lights that exist in the world. It's name means 'Light of the gods'.",
 			"FLEE +30",
 			"Mdef +5.",
@@ -85024,12 +85038,14 @@ tbl = {
 		EffectID = 1186
 	},
 	[70249] = {
-		unidentifiedDisplayName = "[GP] Eddga Card",
+		unidentifiedDisplayName = "[GP]Eddga Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Eddga Card",
+		identifiedDisplayName = "[GP]Eddga Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"MaxHP -25%",
 			"Increases damage of ^009900Cart Termination^000000 by 20%.",
 			"_______________________",
@@ -85046,14 +85062,16 @@ tbl = {
 		EffectID = 1186
 	},
 	[70250] = {
-		unidentifiedDisplayName = "[GP] Tao Gunka Card",
+		unidentifiedDisplayName = "[GP]Tao Gunka Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Tao Gunka Card",
+		identifiedDisplayName = "[GP]Tao Gunka Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +100%",
 			"Reduce physical and magical defense by 20%.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"^FF0000this item is account bound^000000",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Armor^000000",
@@ -85065,16 +85083,18 @@ tbl = {
 		EffectID = 1186
 	},
 	[70251] = {
-		unidentifiedDisplayName = "[GP] Amon Ra Card",
+		unidentifiedDisplayName = "[GP]Amon Ra Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Amon Ra Card",
+		identifiedDisplayName = "[GP]Amon Ra Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"All stats +1",
 			"Add the chance of casting ^008800Level 10 Kyrie Eleison^000000 around the user when reciving Physical Damage.",
 			"The chance of casting the skill is increased if the user has 99 INT points.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^999900 Footgear^000000",
 			"Weight:^009900 1^000000"
@@ -85085,15 +85105,17 @@ tbl = {
 		EffectID = 1186
 	},
 	[70252] = {
-		unidentifiedDisplayName = "[GP] Dracula Card",
+		unidentifiedDisplayName = "[GP]Dracula Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Dracula Card",
+		identifiedDisplayName = "[GP]Dracula Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Adds 10% chance of gaining 5% of the damage inflicted on target as SP with each attack.",
 			"_______________________",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Weapon^000000",
 			"Weight:^009900 1^000000"
@@ -85104,14 +85126,16 @@ tbl = {
 		EffectID = 1186
 	},
 	[70253] = {
-		unidentifiedDisplayName = "[GP] Golden Thiefbug Card",
+		unidentifiedDisplayName = "[GP]Golden Thiefbug Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Golden Thiefbug Card",
+		identifiedDisplayName = "[GP]Golden Thiefbug Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"60% Nullify all magic attack, including supportive skills, that target character at the cost of doubling SP Consumption cost when using skills.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^6666CC Shield^000000",
 			"Weight:^009900 1^000000"
@@ -85122,15 +85146,17 @@ tbl = {
 		EffectID = 1186
 	},
 	[70254] = {
-		unidentifiedDisplayName = "[GP] Phreeoni Card",
+		unidentifiedDisplayName = "[GP]Phreeoni Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Phreeoni Card",
+		identifiedDisplayName = "[GP]Phreeoni Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Hit +100",
 			"Class:^6666CC Card^000000",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Compound on:^FF0000 Weapon^000000",
 			"Weight:^009900 1^000000"
 		},
@@ -85140,16 +85166,18 @@ tbl = {
 		EffectID = 1186
 	},
 	[70255] = {
-		unidentifiedDisplayName = "[GP] Atroce Card",
+		unidentifiedDisplayName = "[GP]Atroce Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Atroce Card",
+		identifiedDisplayName = "[GP]Atroce Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Atk +25",
 			"Atk +10%",
 			"When in physical attack, Reduces after attack delay by 100% for 10 seconds.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Weapon^000000",
 			"Weight:^009900 1^000000"
@@ -85160,16 +85188,18 @@ tbl = {
 		EffectID = 1186
 	},
 	[70256] = {
-		unidentifiedDisplayName = "[GP] Lady Tanee Card",
+		unidentifiedDisplayName = "[GP]Lady Tanee Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Lady Tanee Card",
+		identifiedDisplayName = "[GP]Lady Tanee Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"[^008800Sage class^000000]",
 			"Adds a 10% chance to drain 100% SP from any target within 27-27 cells of the user when performing a magical attack.",
 			"_______________________",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^999900 Footgear^000000",
 			"Weight:^009900 1^000000"
@@ -85180,16 +85210,18 @@ tbl = {
 		EffectID = 1186
 	},
 	[70257] = {
-		unidentifiedDisplayName = "[GP] Mistress Card",
+		unidentifiedDisplayName = "[GP]Mistress Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "[GP] Mistress Card",
+		identifiedDisplayName = "[GP]Mistress Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Nullifies Gemstone requirement of certain skills.",
 			"Increases SP Consumption by 25%.",
 			"_______________________",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"^0000CCType:^000000 Card",
 			"^0000CCCompound on:^000000 Headgear",
 			"^0000CCWeight:^000000 1"
@@ -85200,10 +85232,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70258] = {
-		unidentifiedDisplayName = "[GP] Moonlight Flower Card",
+		unidentifiedDisplayName = "[GP]Moonlight Flower Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Moonlight Flower Card",
+		identifiedDisplayName = "[GP]Moonlight Flower Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"+12% Max HP",
@@ -85211,6 +85243,8 @@ tbl = {
 			"+12 Movement Speed so long as the Footgear to which this card is compounded is equipped.",
 			"_______________________",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^999900 Footgear^000000",
 			"Weight:^009900 1^000000"
@@ -85221,14 +85255,16 @@ tbl = {
 		EffectID = 1186
 	},
 	[70259] = {
-		unidentifiedDisplayName = "[GP] Osiris Card",
+		unidentifiedDisplayName = "[GP]Osiris Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Osiris Card",
+		identifiedDisplayName = "[GP]Osiris Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Enable full HP and SP restoration when resurrected.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^B40088 Accessory^000000",
 			"Weight:^009900 1^000000"
@@ -85239,15 +85275,17 @@ tbl = {
 		EffectID = 1186
 	},
 	[70260] = {
-		unidentifiedDisplayName = "[GP] Drake Card",
+		unidentifiedDisplayName = "[GP]Drake Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "[GP] Drake Card",
+		identifiedDisplayName = "[GP]Drake Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Nullifies reduction in damage against monsters resulting from monster's size.",
 			"_______________________",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"^0000CCType:^000000 Card",
 			"^0000CCCompound on:^000000 Weapon",
 			"^0000CCWeight:^000000 1"
@@ -85258,15 +85296,17 @@ tbl = {
 		EffectID = 1186
 	},
 	[70261] = {
-		unidentifiedDisplayName = "[GP] Pharaoh Card",
+		unidentifiedDisplayName = "[GP]Pharaoh Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "[GP] Pharaoh Card",
+		identifiedDisplayName = "[GP]Pharaoh Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Decreases SP Consumption by 30%.",
 			"_______________________",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"^0000CCType:^000000 Card",
 			"^0000CCCompound on:^000000 Headgear",
 			"^0000CCWeight:^000000 1"
@@ -85277,14 +85317,16 @@ tbl = {
 		EffectID = 1186
 	},
 	[70262] = {
-		unidentifiedDisplayName = "[GP] Turtle General Card",
+		unidentifiedDisplayName = "[GP]Turtle General Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Turtle General Card",
+		identifiedDisplayName = "[GP]Turtle General Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Atk +20%",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Weapon^000000",
 			"Weight:^009900 1^000000"
@@ -85295,15 +85337,17 @@ tbl = {
 		EffectID = 1186
 	},
 	[70263] = {
-		unidentifiedDisplayName = "[GP] Maya Card",
+		unidentifiedDisplayName = "[GP]Maya Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "[GP] Maya Card",
+		identifiedDisplayName = "[GP]Maya Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Adds 50% chance of reflecting Magical attacks, aside from skills which target the ground, cast on the character.",
 			"_______________________",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"^0000CCType:^000000 Card",
 			"^0000CCCompound on:^000000 Shield",
 			"^0000CCWeight:^000000 1"
@@ -85314,10 +85358,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70264] = {
-		unidentifiedDisplayName = "[GP] Doppelganger Card",
+		unidentifiedDisplayName = "[GP]Doppelganger Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Doppelganger Card",
+		identifiedDisplayName = "[GP]Doppelganger Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Enable faster Attack Speed so long as the weapon to which this card is compounded is equipped.",
@@ -85327,6 +85371,8 @@ tbl = {
 			"ASPD +100",
 			"_______________________",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Weapon^000000",
 			"Weight:^009900 1^000000"
@@ -85337,16 +85383,18 @@ tbl = {
 		EffectID = 1186
 	},
 	[70265] = {
-		unidentifiedDisplayName = "[GP] Boss Egnigem Card",
+		unidentifiedDisplayName = "[GP]Boss Egnigem Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Boss Egnigem Card",
+		identifiedDisplayName = "[GP]Boss Egnigem Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +15%",
 			"MaxSP +15%",
 			"Restores 50 HP and 10 SP every 10 seconds",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^999900 Footgear^000000",
 			"Weight:^009900 1^000000"
@@ -85357,14 +85405,16 @@ tbl = {
 		EffectID = 1186
 	},
 	[70266] = {
-		unidentifiedDisplayName = "[GP] Kiel-D-01 Card",
+		unidentifiedDisplayName = "[GP]Kiel-D-01 Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Kiel-D-01 Card",
+		identifiedDisplayName = "[GP]Kiel-D-01 Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Reduces after cast delay of all skills by 14.5%.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^6600FF Headgear^000000",
 			"Weight:^009900 1^000000"
@@ -85375,15 +85425,17 @@ tbl = {
 		EffectID = 1186
 	},
 	[70267] = {
-		unidentifiedDisplayName = "[GP] Orc Hero Card",
+		unidentifiedDisplayName = "[GP]Orc Hero Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Orc Hero Card",
+		identifiedDisplayName = "[GP]Orc Hero Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Vit +3",
 			"Prevents ^663399Stun^000000 status.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^6600FF Headgear^000000",
 			"Weight:^009900 1^000000"
@@ -85394,15 +85446,17 @@ tbl = {
 		EffectID = 1186
 	},
 	[70268] = {
-		unidentifiedDisplayName = "[GP] Dark Snake Lord Card",
+		unidentifiedDisplayName = "[GP]Dark Snake Lord Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Dark Snake Lord Card",
+		identifiedDisplayName = "[GP]Dark Snake Lord Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Int +3",
 			"Immune to ^663399Blind^000000 and ^FF0000Curse^000000 state.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^6600FF Headgear^000000",
 			"Weight:^009900 1^000000"
@@ -85413,10 +85467,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70269] = {
-		unidentifiedDisplayName = "[GP] Incantation Samurai Card",
+		unidentifiedDisplayName = "[GP]Incantation Samurai Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Incantation Samurai Card",
+		identifiedDisplayName = "[GP]Incantation Samurai Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Ignores ^6666CCNormal^000000 monster's defense when attacking.",
@@ -85424,6 +85478,8 @@ tbl = {
 			"Drains 666 HP every 10 seconds.",
 			"Drains 999 HP as the weapon is unequipped.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Weapon^000000",
 			"Weight:^009900 1^000000"
@@ -85434,15 +85490,17 @@ tbl = {
 		EffectID = 1186
 	},
 	[70270] = {
-		unidentifiedDisplayName = "[GP] Vesper Card",
+		unidentifiedDisplayName = "[GP]Vesper Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Vesper Card",
+		identifiedDisplayName = "[GP]Vesper Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Dex +2",
 			"Ignores 30% of ^6666CCBoss^000000 monster's Magic Defense Rate when inflicting magic attacks against them.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^6600FF Headgear^000000",
 			"Weight:^009900 1^000000"
@@ -85453,14 +85511,16 @@ tbl = {
 		EffectID = 1186
 	},
 	[70271] = {
-		unidentifiedDisplayName = "[GP] Gloom Under Night Card",
+		unidentifiedDisplayName = "[GP]Gloom Under Night Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Gloom Under Night Card",
+		identifiedDisplayName = "[GP]Gloom Under Night Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Increases Physical damage to Holy, Shadow, Angel and Demon monsters by 40%.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Armor^000000",
 			"Weight:^009900 1^000000"
@@ -85471,15 +85531,17 @@ tbl = {
 		EffectID = 1186
 	},
 	[70272] = {
-		unidentifiedDisplayName = "[GP] White Lady Card",
+		unidentifiedDisplayName = "[GP]White Lady Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] White Lady Card",
+		identifiedDisplayName = "[GP]White Lady Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Increases effectiveness of Healing skills by 30% when they are cast by the wearer.",
 			"Increases SP consumption by 15%.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^6600FF Headgear^000000",
 			"Weight:^009900 1^000000"
@@ -85490,16 +85552,18 @@ tbl = {
 		EffectID = 1186
 	},
 	[70273] = {
-		unidentifiedDisplayName = "[GP] Fallen Bishop Card",
+		unidentifiedDisplayName = "[GP]Fallen Bishop Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Fallen Bishop Card",
+		identifiedDisplayName = "[GP]Fallen Bishop Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Matk +10%",
 			"MaxSP -50%",
 			"Increases magic damage to Demihuman and Angel monsters by 50%.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^999900 Footgear^000000",
 			"Weight:^009900 1^000000"
@@ -85510,15 +85574,17 @@ tbl = {
 		EffectID = 1186
 	},
 	[70274] = {
-		unidentifiedDisplayName = "[GP] Baphomet Card",
+		unidentifiedDisplayName = "[GP]Baphomet Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Baphomet Card",
+		identifiedDisplayName = "[GP]Baphomet Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Hit -10",
 			"Endow a weapon with damage that will splash 9 cells around the character with each attack.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Weapon^000000",
 			"Weight:^009900 1^000000"
@@ -85529,10 +85595,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70277] = {
-		unidentifiedDisplayName = "[GP] Detardeurus Card",
+		unidentifiedDisplayName = "[GP]Detardeurus Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Detardeurus Card",
+		identifiedDisplayName = "[GP]Detardeurus Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MDEF -20",
@@ -85540,6 +85606,8 @@ tbl = {
 			"Gains immunity against ^FF0000Frozen^000000 status.",
 			"Adds a chance of autocasting ^008800Level 1 Land Protector^000000 each time the wearer is magically attacked.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Armor^000000",
 			"Weight:^009900 1^000000"
@@ -85550,15 +85618,17 @@ tbl = {
 		EffectID = 1186
 	},
 	[70278] = {
-		unidentifiedDisplayName = "[GP] Ifrit Card",
+		unidentifiedDisplayName = "[GP]Ifrit Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Ifrit Card",
+		identifiedDisplayName = "[GP]Ifrit Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"ATK, CRI, HIT is increased depending on the wearer's job level.",
 			"Has a low chance of autocast ^FF0000Earthquake^000000 when receives a physical attack.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^B40088 Accessory^000000",
 			"Weight:^009900 1^000000"
@@ -85569,15 +85639,17 @@ tbl = {
 		EffectID = 1186
 	},
 	[70279] = {
-		unidentifiedDisplayName = "[GP] Lord of The Dead Card",
+		unidentifiedDisplayName = "[GP]Lord of The Dead Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Lord of The Dead Card",
+		identifiedDisplayName = "[GP]Lord of The Dead Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Add the chance of auto casting ^FF0000Coma^000000 on an enemy.",
 			"Add the chance of auto casting ^FF0000Stun, Curse, Silence, Poison^000000 or ^FF0000Bleeding^000000 in random when attacking the enemy.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Weapon^000000",
 			"Weight:^009900 1^000000"
@@ -85588,14 +85660,16 @@ tbl = {
 		EffectID = 1186
 	},
 	[70280] = {
-		unidentifiedDisplayName = "[GP] Orc Lord Card",
+		unidentifiedDisplayName = "[GP]Orc Lord Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Orc Lord Card",
+		identifiedDisplayName = "[GP]Orc Lord Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Reflect 50% of all melee physical damage back to attacker.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Armor^000000",
 			"Weight:^009900 1^000000"
@@ -85606,10 +85680,10 @@ tbl = {
 		EffectID = 1186
 	},
 	[70281] = {
-		unidentifiedDisplayName = "[GP] RSX-0806 Card",
+		unidentifiedDisplayName = "[GP]RSX-0806 Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] RSX-0806 Card",
+		identifiedDisplayName = "[GP]RSX-0806 Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Vit +3",
@@ -85623,6 +85697,8 @@ tbl = {
 			"Compounded armor is indestructible, but it can still be destroyed by failed upgrade attempts.",
 			"_______________________",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Armor^000000",
 			"Weight:^009900 1^000000"
@@ -85633,15 +85709,17 @@ tbl = {
 		EffectID = 1186
 	},
 	[70282] = {
-		unidentifiedDisplayName = "[GP] Stormy Knight Card",
+		unidentifiedDisplayName = "[GP]Stormy Knight Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Stormy Knight Card",
+		identifiedDisplayName = "[GP]Stormy Knight Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Add the chance of auto casting ^008800Level 1 Storm Gust^000000 on enemy when doing Physical Attack.",
 			"Has 20% chance of ^FF0000Freezing^000000 an enemy when attacking.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Weapon^000000",
 			"Weight:^009900 1^000000"
@@ -85652,16 +85730,18 @@ tbl = {
 		EffectID = 1186
 	},
 	[70283] = {
-		unidentifiedDisplayName = "[GP] Randgris Card",
+		unidentifiedDisplayName = "[GP]Randgris Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Randgris Card",
+		identifiedDisplayName = "[GP]Randgris Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Atk +10%.",
 			"Adds a chance of autocast ^008800Level 1 Dispell^000000 with each physical attack.",
 			"Make Compounded weapon is indestructible, but it can still be destroyed by failed upgrade attempts.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Weapon^000000",
 			"Weight:^009900 1^000000"
@@ -85672,15 +85752,17 @@ tbl = {
 		EffectID = 1186
 	},
 	[70284] = {
-		unidentifiedDisplayName = "[GP] Lord Knight Card",
+		unidentifiedDisplayName = "[GP]Lord Knight Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "[GP] Lord Knight Card",
+		identifiedDisplayName = "[GP]Lord Knight Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP -50%",
 			"Enables use of Level 1 ^008800Berserk^000000.",
 			"^FF0000this item is account bound^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"Class:^6666CC Card^000000",
 			"Compound on:^6600FF Headgear^000000",
 			"Weight:^009900 1^000000"
@@ -85875,7 +85957,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "[GP] Ice Pick",
+		identifiedDisplayName = "[GP]Ice Pick",
 		identifiedResourceName = "송곳",
 		identifiedDescriptionName = {
 			"^000088Bounded Item^000000",
@@ -85884,9 +85966,11 @@ tbl = {
 			"Deals more damage depending on the target's Defense.",
 			"_______________________",
 			"Random chance to increase FLEE by 20 when dealing physical damage.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Dagger",
-			"^0000CCAttack:^000000 105",
+			"^0000CCAttack:^000000 80",
 			"^0000CCWeight:^000000 0",
 			"^0000CCWeapon Level:^000000 4",
 			"^0000CCRefineable:^000000 No",
@@ -86417,6 +86501,114 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[70286] = {
+		unidentifiedDisplayName = "High Wizard Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[GP]High Wizard Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases cast time by 100%, and reduces SP Recovery by 100%,",
+			"but the wearer's attacks will ignore the MDEF of ^6666CCNormal^000000 monsters.",
+			"Drains 2,000 SP when the compounded headgear is unequipped.",
+			"Class:^6666CC Card^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
+			"Compound on:^6600FF Headgear^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70287] = {
+		unidentifiedDisplayName = "Devilring Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[GP]Devilring Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases resistance against ^777777Neutral^000000 elemental attack by 50%.",
+			"Reduces resistance against other element attack by 50%.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
+			"Class:^6666CC Card^000000",
+			"Compound on:^008C99 Garment^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70288] = {
+		unidentifiedDisplayName = "Ghostring Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[GP]Ghostring Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Enchants armor with ^777777Ghost^000000 elemental.",
+			"Reduce natural HP regeneration by 25%.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
+			"Class:^6666CC Card^000000",
+			"Compound on:^00CC33 Armor^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70289] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "아머",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "[GP]Brynhild",
+		identifiedResourceName = "브륀힐트",
+		identifiedDescriptionName = {
+			"Brynhild is one of the valiant valkyries, meaning 'the warrior's armor'.",
+			"Increase MaxHP by 20*Base level",
+			"Increase MaxSP by 5*Base Level",
+			"Atk +10%",
+			"Matk +10%",
+			"Mdef +10",
+			"Cannot be knocked back",
+			"^FF0000Unrefineable^000000",
+			"^663399Indestructible^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
+			"Class:^6666CC Armor^000000",
+			"Defense:^0000FF 10^000000",
+			"Weight:^009900 40^000000",
+			"Level Requirement:^009900 94^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70290] = {
+		unidentifiedDisplayName = "Memory of Thanatos Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[GP]Memory of Thanatos Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases physical damage inflicted on ^6666CCDemihuman^000000 monsters by 25%.",
+			"Class:^6666CC Card^000000",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
 	[420112] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "리본",
@@ -86473,6 +86665,8 @@ tbl = {
 		identifiedDescriptionName = {
 			"The Savage Babe of the Savage family. A costume hat made in honor of the 29th president.",
 			"He has the courage to move toward a huge enemy even though he is small.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>prt_fild09,369,249,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"STR +5",
 			"INT +5",
