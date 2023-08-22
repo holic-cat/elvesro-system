@@ -82538,8 +82538,8 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Striking_Mikoshi",
-		identifiedResourceName = "C_Striking_Mikoshi",
+		identifiedDisplayName = "Striking Mikoshi",
+		identifiedResourceName = "Striking_Mikoshi",
 		identifiedDescriptionName = {
 			"",
 			"_______________________",
@@ -82551,6 +82551,215 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 111,
+		costume = true
+	},
+	[480167] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Heart Stick Chocolate",
+		identifiedResourceName = "C_Heart_Stick_Choco",
+		identifiedDescriptionName = {
+			"A costume decoration modeled after a heart stick chocolate.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 124,
+		costume = true
+	},
+	[480169] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Diabolic Rock Guitar",
+		identifiedResourceName = "C_Diabolic_Rock_Guitar",
+		identifiedDescriptionName = {
+			"Rock on with this diabolical guitar.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 125,
+		costume = true
+	},
+	[480176] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Blue Rose Garden",
+		identifiedResourceName = "C_Blue_Rose_Garden",
+		identifiedDescriptionName = {
+			"A staff wrapped in vibrant, blue roses.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 127,
+		costume = true
+	},
+	[480181] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Dragon Backpack",
+		identifiedResourceName = "C_Pitaya_G_Bag",
+		identifiedDescriptionName = {
+			"ake your dragon everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 129,
+		costume = true
+	},
+	[480182] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume RTC Coat 4",
+		identifiedResourceName = "C_2022RTC_V_Coat4",
+		identifiedDescriptionName = {
+			"everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 132,
+		costume = true
+	},
+	[20618] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Big Black Rabbit",
+		identifiedResourceName = "C_Big_B_Rabbit",
+		identifiedDescriptionName = {
+			"everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 133,
+		costume = true
+	},
+	[480204] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Back Ribbon Bell (Blue)",
+		identifiedResourceName = "C_Back_Ribbon_Bell_BU",
+		identifiedDescriptionName = {
+			"A shiny blue ribbon with a silver bell.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 135,
+		costume = true
+	},
+	[480187] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Wedding Ribbon",
+		identifiedResourceName = "C_Wedding_Ribbon",
+		identifiedDescriptionName = {
+			"ake your dragon everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 130,
+		costume = true
+	},
+	[480187] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Traveler Bag",
+		identifiedResourceName = "C_Traveller_Bag",
+		identifiedDescriptionName = {
+			"A set of clothing and equipment for adventurers traveling through the desert. There are many tools that come in handy when traveling.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 137,
+		costume = true
+	},
+	[480187] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Traveler Bag",
+		identifiedResourceName = "C_Traveller_Bag",
+		identifiedDescriptionName = {
+			"A set of clothing and equipment for adventurers traveling through the desert. There are many tools that come in handy when traveling.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 137,
+		costume = true
+	},
+	[480221] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Ninetail's Tail",
+		identifiedResourceName = "C_Ninetail_Tail",
+		identifiedDescriptionName = {
+			"A costume decoration that imitates Ninetail.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 145,
 		costume = true
 	},
 	[480122] = {
