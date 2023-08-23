@@ -82748,7 +82748,7 @@ tbl = {
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Costume Muranyasa",
-		identifiedResourceName = "C_J_Umbrella",
+		identifiedResourceName = "C_Muranyasa",
 		identifiedDescriptionName = {
 			"A replica of the legendary sword forged by Muramasa. Since it is actually a toy, it is safe for everyone to wear.",
 			"_______________________",
@@ -82876,25 +82876,6 @@ tbl = {
 		ClassNum = 152,
 		costume = true
 	},
-	[480197] = {
-		unidentifiedDisplayName = "Unidentified Garment",
-		unidentifiedResourceName = "후드",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_JP_EV16",
-		identifiedResourceName = "C_JP_EV16",
-		identifiedDescriptionName = {
-			"Multipurpose wing improved for high efficiency and high output.",
-			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
-			"^0000CCWeight:^000000 0",
-			"_______________________",
-			"^0000CCRequirement:^000000 None"
-		},
-		slotCount = 0,
-		ClassNum = 152,
-		costume = true
-	},
 	[480198] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "후드",
@@ -82971,7 +82952,7 @@ tbl = {
 		ClassNum = 158,
 		costume = true
 	},
-	[480237] = {
+	[480228] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
@@ -83178,25 +83159,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 123,
-		costume = true
-	},
-	[480198] = {
-		unidentifiedDisplayName = "Unidentified Garment",
-		unidentifiedResourceName = "후드",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume 20th Anniversary Laurel Wings",
-		identifiedResourceName = "C_20th_Anniversary_Wing",
-		identifiedDescriptionName = {
-			"",
-			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
-			"^0000CCWeight:^000000 0",
-			"_______________________",
-			"^0000CCRequirement:^000000 None"
-		},
-		slotCount = 0,
-		ClassNum = 136,
 		costume = true
 	},
 	[480199] = {
