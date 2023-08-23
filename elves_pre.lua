@@ -82629,7 +82629,7 @@ tbl = {
 		ClassNum = 129,
 		costume = true
 	},
-	[480182] = {
+	[480192] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
@@ -82646,6 +82646,120 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 132,
+		costume = true
+	},
+	[480193] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume RTC Coat 3",
+		identifiedResourceName = "2022RTC_V_Coat3",
+		identifiedDescriptionName = {
+			"everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 141,
+		costume = true
+	},
+	[480194] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume RTC Coat 2",
+		identifiedResourceName = "2022RTC_V_Coat2",
+		identifiedDescriptionName = {
+			"everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 142,
+		costume = true
+	},
+	[480195] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume RTC Coat 1",
+		identifiedResourceName = "2022RTC_V_Coat1",
+		identifiedDescriptionName = {
+			"everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 143,
+		costume = true
+	},
+	[480196] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Whale_Shark_Float",
+		identifiedResourceName = "Whale_Shark_Float",
+		identifiedDescriptionName = {
+			"everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 144,
+		costume = true
+	},
+	[480222] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Oriental Umbrella",
+		identifiedResourceName = "C_J_Umbrella",
+		identifiedDescriptionName = {
+			"An antique traditional Japanese umbrella.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 146,
+		costume = true
+	},
+	[480223] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Muranyasa",
+		identifiedResourceName = "C_J_Umbrella",
+		identifiedDescriptionName = {
+			"A replica of the legendary sword forged by Muramasa. Since it is actually a toy, it is safe for everyone to wear.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 147,
 		costume = true
 	},
 	[20618] = {
@@ -82665,6 +82779,215 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 133,
+		costume = true
+	},
+	[480235] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Diabolic_Friendt",
+		identifiedResourceName = "C_Diabolic_Friend",
+		identifiedDescriptionName = {
+			"everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 148,
+		costume = true
+	},
+	[480236] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Book of Soyga",
+		identifiedResourceName = "C_Big_Magic_Book",
+		identifiedDescriptionName = {
+			"A garment to show the Librarian's undying love for books.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 149,
+		costume = true
+	},
+	[20619] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Phaya_Ploeng_Suriyan",
+		identifiedResourceName = "C_Phaya_Ploeng_Suriyan",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 150,
+		costume = true
+	},
+	[480242] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Tele_WG_Cape",
+		identifiedResourceName = "Tele_WG_Cape",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 151,
+		costume = true
+	},
+	[480197] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_JP_EV16",
+		identifiedResourceName = "C_JP_EV16",
+		identifiedDescriptionName = {
+			"Multipurpose wing improved for high efficiency and high output.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 152,
+		costume = true
+	},
+	[480197] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_JP_EV16",
+		identifiedResourceName = "C_JP_EV16",
+		identifiedDescriptionName = {
+			"Multipurpose wing improved for high efficiency and high output.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 152,
+		costume = true
+	},
+	[480198] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_JP_EV17",
+		identifiedResourceName = "C_JP_EV17",
+		identifiedDescriptionName = {
+			"Multipurpose wing improved for high efficiency and high output.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 153,
+		costume = true
+	},
+	[480246] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Valkyrie Spear",
+		identifiedResourceName = "C_Valkyrie_Spear",
+		identifiedDescriptionName = {
+			"Multipurpose wing improved for high efficiency and high output.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 154,
+		costume = true
+	},
+	[480247] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Giant Angeling",
+		identifiedResourceName = "C_Giant_Angeling",
+		identifiedDescriptionName = {
+			"Multipurpose wing improved for high efficiency and high output.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 155,
+		costume = true
+	},
+	[480237] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C Tengu's Katana",
+		identifiedResourceName = "C_Katana_TenguMaster",
+		identifiedDescriptionName = {
+			"Two swords wielded by the greatest of swordsmen among Tengu.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 158,
+		costume = true
+	},
+	[480237] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C Day of the Dead",
+		identifiedResourceName = "Day_of_the_Dead",
+		identifiedDescriptionName = {
+			"The wonderful soul of the dead.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 158,
 		costume = true
 	},
 	[480204] = {
@@ -82705,26 +83028,7 @@ tbl = {
 		ClassNum = 130,
 		costume = true
 	},
-	[480187] = {
-		unidentifiedDisplayName = "Unidentified Garment",
-		unidentifiedResourceName = "후드",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Traveler Bag",
-		identifiedResourceName = "C_Traveller_Bag",
-		identifiedDescriptionName = {
-			"A set of clothing and equipment for adventurers traveling through the desert. There are many tools that come in handy when traveling.",
-			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
-			"^0000CCWeight:^000000 0",
-			"_______________________",
-			"^0000CCRequirement:^000000 None"
-		},
-		slotCount = 0,
-		ClassNum = 137,
-		costume = true
-	},
-	[480187] = {
+	[480191] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
