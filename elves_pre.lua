@@ -78971,11 +78971,11 @@ tbl = {
 		identifiedDisplayName = "Target Castle Event Supply Box",
 		identifiedResourceName = "ÆøÅº¸µ»óÀÚ",
 		identifiedDescriptionName = {
-		"A box containing  10 Event Token, 40 Berry Ticket and 10 TCG.",
+		"A box containing  5 Guild Token, 10 Event Token, 100 Berry Ticket, and 10 TCG.",
 		"Berry Ticket - Can convert to 200 Yggdrasil Berries",
-		"TCG is a ElvesRO Trading Card",
+		"TCG is an ElvesRO Trading Card",
 		"^FFFFFF^000000",
-		"^000088Once this item is Award, termination of contract is impossible. Also, this item is can be taken throught Event.^000000",
+		"^000088Once this item is awarded, termination of contract is impossible. Also, this item can be obtained only through Event.^000000",
 		"^FFFFFF^000000",
 		"^0000CCWeight:^000000 1"
 		},
