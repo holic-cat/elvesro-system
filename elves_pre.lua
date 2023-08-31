@@ -31808,7 +31808,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Red Beret",
+		identifiedDisplayName = "Indonesian Beret",
 		identifiedResourceName = "ºÓÀºº£·¹¸ð",
 		identifiedDescriptionName = {
 			"This cap is symbolic of the manpower.",
