@@ -22161,8 +22161,8 @@ tbl = {
 		identifiedResourceName = "타이거마스크",
 		identifiedDescriptionName = {
 			"A mask rumored to make its wearer ferociously aggressive.",
-			"Str +3",
-			"MaxHP +100",
+			"Str +5",
+			"MaxHP +1000",
 			"^FF0000Unrefineable^000000",
 			"Class:^6666CC Headgear^000000",
 			"Defense:^0000FF 2^000000",
