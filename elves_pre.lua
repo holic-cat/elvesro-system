@@ -24077,7 +24077,7 @@ tbl = {
 			"A long piece of black satin tied together into a neat little ribbon that wards off harmful magic.",
 
 		},
-		slotCount = 4,
+		slotCount = 1,
 		ClassNum = 242,
 		costume = false
 	},
