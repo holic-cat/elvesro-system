@@ -22161,8 +22161,8 @@ tbl = {
 		identifiedResourceName = "Å¸ÀÌ°Å¸¶½ºÅ©",
 		identifiedDescriptionName = {
 			"A mask rumored to make its wearer ferociously aggressive.",
-			"Str +5",
-			"MaxHP +1000",
+			"Str +3",
+			"MaxHP +100",
 			"^FF0000Unrefineable^000000",
 			"Class:^6666CC Headgear^000000",
 			"Defense:^0000FF 2^000000",
@@ -24077,7 +24077,7 @@ tbl = {
 			"A long piece of black satin tied together into a neat little ribbon that wards off harmful magic.",
 
 		},
-		slotCount = 1,
+		slotCount = 4,
 		ClassNum = 242,
 		costume = false
 	},
@@ -31808,7 +31808,7 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Indonesian Beret",
+		identifiedDisplayName = "Red Beret",
 		identifiedResourceName = "ºÓÀºº£·¹¸ð",
 		identifiedDescriptionName = {
 			"This cap is symbolic of the manpower.",
@@ -87568,6 +87568,91 @@ tbl = {
 		slotCount = 4,
 		ClassNum = 3129,
 		costume = true
+	},
+	[18779] = {
+		unidentifiedDisplayName = "Unidentified Helmet",
+		unidentifiedResourceName = "Çï¸§",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Elves Champ Crown(1st)",
+		identifiedResourceName = "RWC½Â¸®ÀÇ¿Õ°ü_»¡°­",
+		identifiedDescriptionName = {
+			"RWC Crown of victory.",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 12",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 902,
+		costume = false
+	},
+
+	[18780] = {
+		unidentifiedDisplayName = "Unidentified Helmet",
+		unidentifiedResourceName = "Çï¸§",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Elves Champ Crown(2nd)",
+		identifiedResourceName = "RWC½Â¸®ÀÇ¿Õ°ü_ÆÄ¶û",
+		identifiedDescriptionName = {
+			"RWC Crown of victory.",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +3",
+			"_______________________",
+			"Prevents ^663399Silence^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 12",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 903,
+		costume = false
+	},
+	[18781] = {
+		unidentifiedDisplayName = "Unidentified Helmet",
+		unidentifiedResourceName = "Çï¸§",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Elves Champ Crown(3rd)",
+		identifiedResourceName = "RWC½Â¸®ÀÇ¿Õ°ü_°ËÁ¤",
+		identifiedDescriptionName = {
+			"RWC Crown of victory.",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +1",
+			"_______________________",
+			"Prevents ^663399Curse^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 12",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 904,
+		costume = false
 	},
 }
 
