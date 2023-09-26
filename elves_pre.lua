@@ -84836,7 +84836,7 @@ tbl = {
 		ClassNum = 3912,
 		costume = true
 	},
-	[70215] = {
+	[70305] = {
 		unidentifiedDisplayName = "Eddga Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
