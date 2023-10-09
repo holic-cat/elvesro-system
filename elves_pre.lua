@@ -87882,6 +87882,24 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 177
 	},
+	[480320] = {
+		unidentifiedDisplayName = "Unidentified Ribbon",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Aqua Fin Decoration",
+		identifiedResourceName = "C_Aqua_Fin_Decoration",
+		identifiedDescriptionName = {
+			"---------------",				
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 179
+	},
 	[480321] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "府夯",
@@ -88207,6 +88225,286 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 2351,
+		costume = true
+	},
+	[420201] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Baeksayo_Wig",
+		identifiedResourceName = "C_Baeksayo_Wig",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2354,
+		costume = true
+	},
+	[420204] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Eternal_Rose",
+		identifiedResourceName = "C_Eternal_Rose",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2365,
+		costume = true
+	},
+	[420208] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Chocolat_Rabbit_Hair",
+		identifiedResourceName = "C_Chocolat_Rabbit_Hair",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2369,
+		costume = true
+	},
+	[420209] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Cookie_PinkRibbon",
+		identifiedResourceName = "C_Cookie_PinkRibbon",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2370,
+		costume = true
+	},
+	[420211] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Sleep_RedSheep",
+		identifiedResourceName = "C_Sleep_RedSheep",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2277,
+		costume = true
+	},
+	[420213] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Spade_Ace_Melee",
+		identifiedResourceName = "Spade_Ace_Melee",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2374,
+		costume = true
+	},
+	[420219] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "c_come_on_melon",
+		identifiedResourceName = "c_come_on_melon",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2382,
+		costume = true
+	},
+	[420221] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Skia_Two_Side_Up",
+		identifiedResourceName = "C_Skia_Two_Side_Up",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2389,
+		costume = true
+	},
+	[420224] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Ocean_Color_Long",
+		identifiedResourceName = "C_Ocean_Color_Long",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2397,
+		costume = true
+	},
+	[430005] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_White_Tiger_Glass",
+		identifiedResourceName = "C_White_Tiger_Glass",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2325,
+		costume = true
+	},
+	[435000] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Sausage",
+		identifiedResourceName = "C_Sausage",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2320,
+		costume = true
+	},
+	[436006] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Ep19_Rgan",
+		identifiedResourceName = "C_Ep19_Rgan",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2144,
+		costume = true
+	},
+	[436007] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Ep19_Iwin",
+		identifiedResourceName = "C_Ep19_Iwin",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2143,
+		costume = true
+	},
+	[436008] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_HwaHoJumJung",
+		identifiedResourceName = "C_HwaHoJumJung",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2216,
+		costume = true
+	},
+	[436010] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_spiding",
+		identifiedResourceName = "C_spiding",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2315,
 		costume = true
 	},
 }
