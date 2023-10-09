@@ -88247,7 +88247,7 @@ tbl = {
 		ClassNum = 2354,
 		costume = true
 	},
-	[420204] = {
+	[420207] = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "府夯",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
@@ -88265,6 +88265,26 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 2365,
+		costume = true
+	},
+	[420161] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Starry_Long_Wave",
+		identifiedResourceName = "C_Starry_Long_Wave",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2271,
 		costume = true
 	},
 	[420208] = {
@@ -88397,6 +88417,46 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 2397,
+		costume = true
+	},
+	[420156] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Flower_L_Knitting",
+		identifiedResourceName = "C_Flower_L_Knitting",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2261,
+		costume = true
+	},
+	[420177] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Valkyrie_Hair",
+		identifiedResourceName = "C_Valkyrie_Hair",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2311,
 		costume = true
 	},
 	[430005] = {
