@@ -76362,7 +76362,7 @@ tbl = {
 		unidentifiedResourceName = "금화",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Event Token",
-		identifiedResourceName = "금화",
+		identifiedResourceName = "up_coin",
 		identifiedDescriptionName = {
 			"<NAVI>[Your Reputation]<INFO>prontera,155,188,0,100,0,0</INFO></NAVI> Can be farm.",
 			"_______________________",
@@ -76438,7 +76438,7 @@ tbl = {
 		unidentifiedResourceName = "금화",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Guild Token",
-		identifiedResourceName = "guildentoken",
+		identifiedResourceName = "rtc_coin_tw",
 		identifiedDescriptionName = {
 
 			"_______________________",
