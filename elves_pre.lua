@@ -76379,7 +76379,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Vote Token",
-		identifiedResourceName = "금화",
+		identifiedResourceName = "token_of_bigstone",
 		identifiedDescriptionName = {
 			"^ff0000Bound when obtained^000000",
 			"Obtained from Voting ElvesRO.",
@@ -76394,7 +76394,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "PvP Token",
-		identifiedResourceName = "pvptoken",
+		identifiedResourceName = "token_of_orcgeneral",
 		identifiedDescriptionName = {
 			"^ff0000Bound when obtained^000000",
 			"Obtained from WoE & FFA.",
@@ -76410,7 +76410,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Race Token",
-		identifiedResourceName = "금화",
+		identifiedResourceName = "kitcoin",
 		identifiedDescriptionName = {
 			"^ff0000Bound when obtained^000000",
 			"Obtained from Race Event.",
@@ -76438,7 +76438,7 @@ tbl = {
 		unidentifiedResourceName = "금화",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Guild Token",
-		identifiedResourceName = "금화",
+		identifiedResourceName = "guildentoken",
 		identifiedDescriptionName = {
 
 			"_______________________",
