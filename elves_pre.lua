@@ -76394,7 +76394,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "PvP Token",
-		identifiedResourceName = "±ÝÈ­",
+		identifiedResourceName = "pvptoken",
 		identifiedDescriptionName = {
 			"^ff0000Bound when obtained^000000",
 			"Obtained from WoE & FFA.",
