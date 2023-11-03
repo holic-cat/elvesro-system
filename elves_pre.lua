@@ -38760,10 +38760,10 @@ tbl = {
 	},
 	[6191] = {
 		unidentifiedDisplayName = "Spell Book(Lightning Bolt)",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = { "..." },
 		identifiedDisplayName = "Spell Book(Lightning Bolt)",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"An essential magic book for the Warlock Skill [Reading Spell Book]",
 			"Magic Power can be drawn out by reading the words written in this book.",
@@ -76179,7 +76179,7 @@ tbl = {
 		unidentifiedResourceName = "±ÝÈ­",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Battleground Token",
-		identifiedResourceName = "±ÝÈ­",
+		identifiedResourceName = "dalcom_coin",
 		identifiedDescriptionName = {
 			"_______________________",
 			"^0000CCWeight:^000000 0"
@@ -76235,7 +76235,7 @@ tbl = {
 		unidentifiedResourceName = "±ÝÈ­",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Instance Token",
-		identifiedResourceName = "±ÝÈ­",
+		identifiedResourceName = "midgard_coin",
 		identifiedDescriptionName = {
 			"_______________________",
 			"^0000CCWeight:^000000 0"
@@ -76350,7 +76350,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Berry Ticket",
-		identifiedResourceName = "ÄíÆù",
+		identifiedResourceName = "clover_ticket",
 		identifiedDescriptionName = {
 			"Exchange it for a good amount of Yggrdrasil Berry",
 		},
@@ -76899,11 +76899,11 @@ tbl = {
 	},
 	[30276] = {
 		unidentifiedDisplayName = "Hex 1",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Hex 1",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Hex.",
@@ -76917,11 +76917,11 @@ tbl = {
 	},
 	[30277] = {
 		unidentifiedDisplayName = "Hex 2",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Hex 2",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Hex.",
@@ -76935,11 +76935,11 @@ tbl = {
 	},
 	[30278] = {
 		unidentifiedDisplayName = "Hex 3",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Hex 3",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Hex.",
@@ -76953,11 +76953,11 @@ tbl = {
 	},
 	[30279] = {
 		unidentifiedDisplayName = "Hex 4",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Hex 4",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Hex.",
@@ -76971,11 +76971,11 @@ tbl = {
 	},
 	[30280] = {
 		unidentifiedDisplayName = "Hex 5",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Hex 5",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Hex.",
@@ -77169,11 +77169,11 @@ tbl = {
 	},
 	[30291] = {
 		unidentifiedDisplayName = "Open Celestial Gate 1",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Open Celestial Gate 1",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Open Celestial Gate.",
@@ -77187,11 +77187,11 @@ tbl = {
 	},
 	[30292] = {
 		unidentifiedDisplayName = "Open Celestial Gate 2",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Open Celestial Gate 2",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Open Celestial Gate.",
@@ -77205,11 +77205,11 @@ tbl = {
 	},
 	[30293] = {
 		unidentifiedDisplayName = "Open Celestial Gate 3",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Open Celestial Gate 3",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Open Celestial Gate.",
@@ -77225,11 +77225,11 @@ tbl = {
 	},
 	[30294] = {
 		unidentifiedDisplayName = "Open Celestial Gate 4",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Open Celestial Gate 4",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Open Celestial Gate.",
@@ -77243,11 +77243,11 @@ tbl = {
 	},
 	[30295] = {
 		unidentifiedDisplayName = "Open Celestial Gate 5",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Open Celestial Gate 5",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Open Celestial Gate.",
@@ -77261,11 +77261,11 @@ tbl = {
 	},
 	[30296] = {
 		unidentifiedDisplayName = "Shadowstep 1",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Shadowstep 1",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Shadowstep.",
@@ -77279,11 +77279,11 @@ tbl = {
 	},
 	[30297] = {
 		unidentifiedDisplayName = "Shadowstep 2",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Shadowstep 2",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Shadowstep.",
@@ -77297,11 +77297,11 @@ tbl = {
 	},
 	[30298] = {
 		unidentifiedDisplayName = "Shadowstep 3",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Shadowstep 3",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Shadowstep.",
@@ -77317,11 +77317,11 @@ tbl = {
 	},
 	[30299] = {
 		unidentifiedDisplayName = "Shadowstep 4",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Shadowstep 4",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Shadowstep.",
@@ -77335,11 +77335,11 @@ tbl = {
 	},
 	[30300] = {
 		unidentifiedDisplayName = "Shadowstep 5",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Shadowstep 5",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Shadowstep.",
@@ -77353,11 +77353,11 @@ tbl = {
 	},
 	[30301] = {
 		unidentifiedDisplayName = "Summon Wolves 1",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Wolves 1",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Wolves.",
@@ -77371,11 +77371,11 @@ tbl = {
 	},
 	[30302] = {
 		unidentifiedDisplayName = "Summon Wolves 2",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Wolves 2",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Wolves.",
@@ -77389,11 +77389,11 @@ tbl = {
 	},
 	[30303] = {
 		unidentifiedDisplayName = "Summon Wolves 3",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Wolves 3",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Wolves.",
@@ -77409,11 +77409,11 @@ tbl = {
 	},
 	[30304] = {
 		unidentifiedDisplayName = "Summon Wolves 4",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Wolves 4",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Wolves.",
@@ -77427,11 +77427,11 @@ tbl = {
 	},
 	[30305] = {
 		unidentifiedDisplayName = "Summon Wolves 5",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Wolves 5",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Wolves.",
@@ -77445,11 +77445,11 @@ tbl = {
 	},
 	[30306] = {
 		unidentifiedDisplayName = "Summon Spirit Bear 1",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Spirit Bear 1",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Spirit Bear.",
@@ -77463,11 +77463,11 @@ tbl = {
 	},
 	[30307] = {
 		unidentifiedDisplayName = "Summon Spirit Bear 2",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Spirit Bear 2",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Spirit Bear.",
@@ -77481,11 +77481,11 @@ tbl = {
 	},
 	[30308] = {
 		unidentifiedDisplayName = "Summon Spirit Bear 3",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Spirit Bear 3",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Spirit Bear.",
@@ -77501,11 +77501,11 @@ tbl = {
 	},
 	[30309] = {
 		unidentifiedDisplayName = "Summon Spirit Bear 4",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Spirit Bear 4",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Spirit Bear.",
@@ -77519,11 +77519,11 @@ tbl = {
 	},
 	[30310] = {
 		unidentifiedDisplayName = "Summon Spirit Bear 5",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Spirit Bear 5",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Spirit Bear.",
@@ -77537,11 +77537,11 @@ tbl = {
 	},
 	[30311] = {
 		unidentifiedDisplayName = "Mirror Image 1",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Mirror Image 1",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Mirror Image.",
@@ -77555,11 +77555,11 @@ tbl = {
 	},
 	[30312] = {
 		unidentifiedDisplayName = "Mirror Image 2",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Mirror Image 2",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Mirror Image.",
@@ -77573,11 +77573,11 @@ tbl = {
 	},
 	[30313] = {
 		unidentifiedDisplayName = "Mirror Image 3",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Mirror Image 3",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Mirror Image.",
@@ -77593,11 +77593,11 @@ tbl = {
 	},
 	[30314] = {
 		unidentifiedDisplayName = "Mirror Image 4",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Mirror Image 4",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Mirror Image.",
@@ -77611,11 +77611,11 @@ tbl = {
 	},
 	[30315] = {
 		unidentifiedDisplayName = "Mirror Image 5",
-		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Mirror Image 5",
-		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Mirror Image.",
@@ -87654,6 +87654,150 @@ tbl = {
 		ClassNum = 904,
 		costume = false
 	},
+	[19598] = {
+		unidentifiedDisplayName = "Unidentified Helmet",
+		unidentifiedResourceName = "Çï¸§",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Wandering Wolf King Helmet Kaho's Horn",
+		identifiedResourceName = "¶°µ¹ÀÌ´Á´ë¿ÕÅõ±¸",
+		identifiedDescriptionName = {
+			"Can feel a high dignity of the Northern Wolf Tribe.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>pay_fild02,78,381,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 490,
+		costume = true
+	},
+	[31122] = {
+		unidentifiedDisplayName = "Unidentified Hat",
+		unidentifiedResourceName = "Ä¸",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Bloody Stop Bandage",
+		identifiedResourceName = "ÇÇ¹¯Àº»ç¾ÈºÀÀÎºØ´ë",
+		identifiedDescriptionName = {
+			"Tight bandages for wounds of the eyes. It seems that they were already used.",
+			"_______________________",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>moc_pryd03,95,93,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 1550,
+		costume = true
+	},
+
+	[31123] = {
+		unidentifiedDisplayName = "Unidentified Hat",
+		unidentifiedResourceName = "ÇÞ",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Ghostring Tall Hat Kaho's Horn",
+		identifiedResourceName = "°í½ºÆ®¸µÅçÇÞ",
+		identifiedDescriptionName = {
+			"A cute tall hat with ghostring motif.",
+			
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 1551,
+		costume = true
+	},
+	[19619] = {
+		unidentifiedDisplayName = "Unidentified Hat",
+		unidentifiedResourceName = "Ä¸",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Corsair Kaho's Horn",
+		identifiedResourceName = "Ä¿¼¼¾î",
+		identifiedDescriptionName = {
+			"A flamboyant hat worn only by the strongest of pirates.",
+			"_______________________",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>treasure01,27,381,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 105,
+		costume = true
+	},
+	[20203] = {
+		unidentifiedDisplayName = "Unidentified Hat",
+		unidentifiedResourceName = "µÎ°Ç",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Bandana Kaho's Horn",
+		identifiedResourceName = "µÎ°Ç",
+		identifiedDescriptionName = {
+			"A common, ivory colored bandana.",
+			"_______________________",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>treasure01,27,381,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 6,
+		costume = true
+	},
 	[20130] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
@@ -87663,6 +87807,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume hat with a cute Whisper motif.",
 			"I feel like Whisper is approaching when I wear this hat.",
+			"_______________________",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>treasure01,27,381,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"STR +5",
 			"INT +5",
