@@ -89539,7 +89539,7 @@ tbl = {
 		ClassNum = 3959,
 		costume = true
 	},
-	[70344] = {
+	[70388] = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
@@ -89670,25 +89670,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 3966,
-		costume = true
-	},
-	[70315] = {
-		unidentifiedDisplayName = "Unidentified Mask",
-		unidentifiedResourceName = "리본",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "AURAABYSS_YLW",
-		identifiedResourceName = "AURAABYSS_YLW",
-		identifiedDescriptionName = {
-			"Unknown aura that wrapped your body.",
-			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 0",
-			"_______________________",
-			"^0000CCRequirement:^000000 None"
-		},
-		slotCount = 0,
-		ClassNum = 3930,
 		costume = true
 	},
 	[70351] = {
@@ -89879,25 +89860,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 3976,
-		costume = true
-	},
-	[70315] = {
-		unidentifiedDisplayName = "Unidentified Mask",
-		unidentifiedResourceName = "리본",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "AURAABYSS_YLW",
-		identifiedResourceName = "AURAABYSS_YLW",
-		identifiedDescriptionName = {
-			"Unknown aura that wrapped your body.",
-			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 0",
-			"_______________________",
-			"^0000CCRequirement:^000000 None"
-		},
-		slotCount = 0,
-		ClassNum = 3930,
 		costume = true
 	},
 	[70361] = {
