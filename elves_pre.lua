@@ -88960,6 +88960,45 @@ tbl = {
 		ClassNum = 3930,
 		costume = true
 	},
+	[410199] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Midnight Candle",
+		identifiedResourceName = "C_Midnight_Candle",
+		identifiedDescriptionName = {
+			"A costume candle with a blue flame that gives you a slight warmth.",
+			"It's lit by magic, so it's safe even if it gets splashed with water.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2301,
+		costume = true
+	},
+	[480274] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Angelic Long (Royal Silver)",
+		identifiedResourceName = "C_Angelic_Long_RSV",
+		identifiedDescriptionName = {
+			"ãóªËó·ª±ªëªÈª¤ªÄªâªÈêÞª¦",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3931,
+		costume = true
+	},
 	[70316] = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "¸®º»",
