@@ -90500,6 +90500,8 @@ tbl = {
 		identifiedResourceName = "BlackCatBag",
 		identifiedDescriptionName = {
 			"A bag made in the shape of a black cat. Containing a lot of toys for kittens of all ages.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>gef_fild05,74,143,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Garment",
