@@ -90414,6 +90414,64 @@ tbl = {
 		ClassNum = 4005,
 		costume = true
 	},
+	[480318] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Divine Phoenix",
+		identifiedResourceName = "c_divine_phoenix",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 178,
+		costume = true
+	},
+	[480335] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Poring Surfboard",
+		identifiedResourceName = "c_surf_board_poring",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 186,
+		costume = true
+	},
+	[480336] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Forest Summer Vacation",
+		identifiedResourceName = "C_Forest_S_Vacation",
+		identifiedDescriptionName = {
+			"An insect net and a green insect cage for the costume carried on the back.",
+			"Catch insects and bring back memories of those summers running around in the forest.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 187,
+		costume = true
+	},
 }
 
 -- Now for a helper function because i hate repetitions 
