@@ -86384,11 +86384,9 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Hooked Straw Hat",
+		identifiedDisplayName = "C_Ten_G_Shield_TW",
 		identifiedResourceName = "Ten_G_Shield_TW",
 		identifiedDescriptionName = {
-			"A hat worn around the neck instead of the head.",
-			"It features a sunflower brooch decorated with a refreshing sky blue ribbon.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Garment",
@@ -87959,7 +87957,7 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 164
 	},
-	[480280] = {
+	[480289] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
@@ -88012,6 +88010,24 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 167
+	},
+	[480297] = {
+		unidentifiedDisplayName = "Unidentified Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Love Bunny Cloak",
+		identifiedResourceName = "Lop_Bunny_Cloak",
+		identifiedDescriptionName = {
+			"A cloak made with the motif of long rabbit ears.",				
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 169
 	},
 	[480310] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -88085,6 +88101,7 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 177
 	},
+
 	[480320] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "리본",
@@ -88120,6 +88137,24 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 180
+	},
+	[480337] = {
+		unidentifiedDisplayName = "Unidentified Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Rifle",
+		identifiedResourceName = "c_riffle",
+		identifiedDescriptionName = {
+			"등에 짊어진 의상용 라이플.",				
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 188
 	},
 	[420133] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -90511,6 +90546,206 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 26,
+		costume = true
+	},
+	[20518] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Gerhard Von Devi Bag",
+		identifiedResourceName = "Gerhard_Von_Devi_Bag",
+		identifiedDescriptionName = {
+			"A bag from Gerhard von Devi. Very popular among people.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>gef_fild05,74,143,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 27,
+		costume = true
+	},
+	[20987] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Piglering Bag",
+		identifiedResourceName = "C_Heart_Wing_Backpack",
+		identifiedDescriptionName = {
+			"A bag with a pig that has wings. Of course, it can't fly.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 58,
+		costume = true
+	},
+	[20987] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Angry Bear Bag",
+		identifiedResourceName = "Ru_Bear_Bag",
+		identifiedDescriptionName = {
+			"A bear doll bag with strong spirit.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 63,
+		costume = true
+	},
+	[480052] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Sakura Ribbon",
+		identifiedResourceName = "C_Sakura_Fes_TW",
+		identifiedDescriptionName = {
+			"A large costume ribbon",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 69,
+		costume = true
+	},
+	[20985] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Gourd Bottle",
+		identifiedResourceName = "C_Gourd_bottle_J",
+		identifiedDescriptionName = {
+			"A very big gourd users for storing Sake.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 82,
+		costume = true
+	},
+	[480086] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume CAPOO Bag",
+		identifiedResourceName = "C_CAPOO_Bag_TW",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 89,
+		costume = true
+	},
+	[20927] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "2023 Elves Cape1 Magical",
+		identifiedResourceName = "2018_RTC_Cape1_TW",
+		identifiedDescriptionName = {
+			"All Stats +2.",
+			"Max SP +2%",
+			"Increase Magic Damage to All Race by 3%",
+			"Reduce Damage to All Race by 3%",
+			"_______________________",
+			"^0000CCType:^000000 Equipment",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 29,
+		costume = true
+	},
+	[20928] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "2023 Elves Cape1 Physical",
+		identifiedResourceName = "2018_RTC_Cape2_TW",
+		identifiedDescriptionName = {
+			"All Stats +2.",
+			"Max HP +2%",
+			"Increase Physical Damage to All Race by 3%",
+			"Reduce Damage to All Race by 3%",
+			"_______________________",
+			"^0000CCType:^000000 Equipment",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 30,
+		costume = true
+	},
+	[20929] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "2023 Elves Cape1 Defense",
+		identifiedResourceName = "2018_RTC_Cape3_TW",
+		identifiedDescriptionName = {
+			"Max HP +5%",
+			"Reduce Damage to All Race by 5%",
+			"_______________________",
+			"^0000CCType:^000000 Equipment",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 31,
+		costume = true
+	},
+	[20926] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "2023 Elves Cape1 Critical",
+		identifiedResourceName = "2018_RTC_Cape4_TW",
+		identifiedDescriptionName = {
+			"All Stats +5.",
+			"Inflict 5% more damage with Critical Attack.",
+			"_______________________",
+			"^0000CCType:^000000 Equipment",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 32,
 		costume = true
 	},
 }
