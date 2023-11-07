@@ -90472,6 +90472,45 @@ tbl = {
 		ClassNum = 187,
 		costume = true
 	},
+	[20513] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Elves Cumbackpack",
+		identifiedResourceName = "EXE_Backpack",
+		identifiedDescriptionName = {
+			"Many thanks for playing with us.",
+			"This is a precious gift for ElvesRO coming back.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 22,
+		costume = true
+	},
+	[20521] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Black Cat Backpack",
+		identifiedResourceName = "BlackCatBag",
+		identifiedDescriptionName = {
+			"A bag made in the shape of a black cat. Containing a lot of toys for kittens of all ages.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 26,
+		costume = true
+	},
 }
 
 -- Now for a helper function because i hate repetitions 
