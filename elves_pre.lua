@@ -88143,7 +88143,7 @@ tbl = {
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Costume Rifle",
-		identifiedResourceName = "c_riffle",
+		identifiedResourceName = "c_rifle",
 		identifiedDescriptionName = {
 			"등에 짊어진 의상용 라이플.",				
 			"_______________________",
