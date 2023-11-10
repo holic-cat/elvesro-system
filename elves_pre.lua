@@ -74214,11 +74214,11 @@ tbl = {
 		ClassNum = 492
 	},
 	[50096] = {
-		unidentifiedDisplayName = "Costume: Crown of Deceit",
+		unidentifiedDisplayName = "Costume Crown of Deceit",
 		unidentifiedResourceName = "»ç±âÀÇ¿Õ°ü",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Costume: Crown of Deceit",
+		identifiedDisplayName = "Costume Crown of Deceit",
 		identifiedResourceName = "»ç±âÀÇ¿Õ°ü",
 		identifiedDescriptionName = {
 			"A deceptive crown that was once used to summon monsters.",
@@ -75262,12 +75262,12 @@ tbl = {
 		ClassNum = 4
 	},
 	[50144] = {
-		unidentifiedDisplayName = "Costume: Pikachu Balloon",
+		unidentifiedDisplayName = "Costume Pikachu Balloon",
 		unidentifiedResourceName = "Pikachu_Balloon",
 		unidentifiedDescriptionName = {
 			"Costume: Pikachu Balloon",
 		},
-		identifiedDisplayName = "Costume: Pikachu Balloon",
+		identifiedDisplayName = "Costume Pikachu Balloon",
 		identifiedResourceName = "Pikachu_Balloon",
 		identifiedDescriptionName = {
 			"A pikachu balloon!",
@@ -78176,7 +78176,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume: Oni Horns",
+		identifiedDisplayName = "Costume Oni Horns",
 		identifiedResourceName = "¿À´ÏÀÇ»Ô",
 		identifiedDescriptionName = {
 			"Twisted horns that were supposedly crafted to look like those of a race of demons that died out long ago.",
@@ -88155,6 +88155,25 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 188
+	},
+	[410198] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Deviruchi Party",
+		identifiedResourceName = "C_2022Cosutama_Imp_JP",
+		identifiedDescriptionName = {
+			"^You'll feel like you're partying with the Deviruchis.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2299,
+		costume = true
 	},
 	[420133] = {
 		unidentifiedDisplayName = "Unidentified Mask",
