@@ -1364,10 +1364,10 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Novice Shield",
+		identifiedDisplayName = "Newbie Shield",
 		identifiedResourceName = "초보자용쉴드",
 		identifiedDescriptionName = {
-			"A cute shield made out of a special metal for the Novice class.",
+			"A cute shield made out of a special metal for the Newbie.",
 			"Reduce all element damage by 10%, with the exception of ^777777Neutral^000000 element damage.",
 			"Class:^6666CC Shield^000000",
 			"Defense:^0000FF 3^000000",
@@ -78176,11 +78176,13 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Oni Horns",
+		identifiedDisplayName = "Oni Kaho's Horns",
 		identifiedResourceName = "오니의뿔",
 		identifiedDescriptionName = {
 			"Twisted horns that were supposedly crafted to look like those of a race of demons that died out long ago.",
 			"Apparently placing them on your head can grant you a small amount of their power.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>prontera,132,190,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"STR +5",
 			"INT +5",
@@ -90786,6 +90788,27 @@ tbl = {
 		ClassNum = 32,
 		costume = true
 	},
+	[410202] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Poring Scooter",
+		identifiedResourceName = "C_ROROGO",
+		identifiedDescriptionName = {
+			"A costumed scooter with the Poring emblem.",
+			"Enjoy scooter rides with Poring",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2303,
+		costume = true
+	},
+	
 }
 
 -- Now for a helper function because i hate repetitions 
