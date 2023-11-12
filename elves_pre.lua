@@ -1368,12 +1368,11 @@ tbl = {
 		identifiedResourceName = "초보자용쉴드",
 		identifiedDescriptionName = {
 			"A cute shield made out of a special metal for the Novice class.",
-			"Reduce all element damage by 20%, with the exception of ^777777Neutral^000000 element damage.",
+			"Reduce all element damage by 10%, with the exception of ^777777Neutral^000000 element damage.",
 			"Class:^6666CC Shield^000000",
 			"Defense:^0000FF 3^000000",
 			"Weight:^009900 100^000000",
 			"Level Requirement:^009900 40^000000",
-			"Jobs:^6666CC Novice^000000"
 		},
 		slotCount = 1,
 		ClassNum = 3,
@@ -5457,6 +5456,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A light, comfortable suit made just for young adventurers.",
 			"^FF0000Unrefineable^000000",
+			"Max HP +100%",
 			"Class:^6666CC Armor^000000",
 			"Defense:^0000FF 8^000000",
 			"Weight:^009900 0^000000",
@@ -90681,6 +90681,25 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 89,
+		costume = true
+	},
+	[31462] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Cute Poring Earmuffs",
+		identifiedResourceName = "Female_Poring_Earmuff",
+		identifiedDescriptionName = {
+			"More Ribbons! More Cute!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 1162,
 		costume = true
 	},
 	[20927] = {
