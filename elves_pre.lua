@@ -90931,6 +90931,34 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[31950] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Replica Nut Cracker Kaho's Horn",
+		identifiedResourceName = "Nut_Cracker",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 1991,
+		ClassNum = 99,
+		costume = false
+	},
 	
 }
 
