@@ -90808,6 +90808,48 @@ tbl = {
 		ClassNum = 2303,
 		costume = true
 	},
+	[70389] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "세이프티링",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Donation Mini Token",
+		identifiedResourceName = "donationtoken",
+		identifiedDescriptionName = {
+			"can be use to exchange Elves Mini Boss Card"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70390] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "세이프티링",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Donation MVP Token",
+		identifiedResourceName = "Unsealing_Token",
+		identifiedDescriptionName = {
+			"can be use to exchange Elves MVP Boss Card"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70392] = {
+		unidentifiedDisplayName = "May's Rainbow Scroll",
+		unidentifiedResourceName = "Costama_EggV02",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Elves MVP Scrool",
+		identifiedResourceName = "Costama_EggV02",
+		identifiedDescriptionName = {
+			"May's Rainbow Scroll for limited time.",
+			"You can get one of several rare items, such as Safe to 11 Weapon Certificate, Safe to 11 Armor Certificate, Powerful Soul Essence, New Hat Box, Angel Poring Boots Box, Poring Sunglasses, Premium Taming Gift Set II.",
+			"_______________________",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	
 }
 
