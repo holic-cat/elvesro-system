@@ -90838,11 +90838,92 @@ tbl = {
 		unidentifiedDisplayName = "May's Rainbow Scroll",
 		unidentifiedResourceName = "Costama_EggV02",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Elves MVP Scrool",
+		identifiedDisplayName = "E Mini Boss P500 Package(2023)",
 		identifiedResourceName = "Costama_EggV02",
 		identifiedDescriptionName = {
-			"May's Rainbow Scroll for limited time.",
-			"You can get one of several rare items, such as Safe to 11 Weapon Certificate, Safe to 11 Armor Certificate, Powerful Soul Essence, New Hat Box, Angel Poring Boots Box, Poring Sunglasses, Premium Taming Gift Set II.",
+			"Cashpoint 1,100.",
+			"50x TCG.",
+			"1 Donation Mini Token.",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70393] = {
+		unidentifiedDisplayName = "2018 New Year Scroll",
+		unidentifiedResourceName = "태양알",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "E MVP Boss P500 Package(2023)",
+		identifiedResourceName = "태양알",
+		identifiedDescriptionName = {
+			"Cashpoint 1,000.",
+			"Donation MVP Token x1.",
+			"_______________________",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70394] = {
+		unidentifiedDisplayName = "July Green Scroll",
+		unidentifiedResourceName = "그린스크롤",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "E MVP Boss P1000 Package(2023)",
+		identifiedResourceName = "그린스크롤",
+		identifiedDescriptionName = {
+			"Cashpoint 2,000.",
+			"Donation MVP Token x2.",
+			"Bloody Branch x300.",
+			"Steamed Scorpion x50.",
+			"Dragon Breath Cocktail x50.",
+			"Hwergelmir's Tonic x50.",
+			"Cooked Nine Tail's Tails x50.",
+			"Stew Of Immortality x50.",
+			"Steamed Tongue x50.",
+			"_______________________",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70395] = {
+		unidentifiedDisplayName = "Angel Scroll",
+		unidentifiedResourceName = "엔젤스크롤",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "E Mini Boss P1000 Package(2023)",
+		identifiedResourceName = "엔젤스크롤",
+		identifiedDescriptionName = {
+			"Cashpoint 2,000.",
+			"Donation Mini Token x2.",
+			"Bloody Branch x500.",
+			"TCG Card x200.",
+			"Steamed Scorpion x50.",
+			"Dragon Breath Cocktail x50.",
+			"Hwergelmir's Tonic x50.",
+			"Cooked Nine Tail's Tails x50.",
+			"Stew Of Immortality x50.",
+			"Steamed Tongue x50.",
+			"_______________________",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70396] = {
+		unidentifiedDisplayName = "Aeon Firesong Scroll",
+		unidentifiedResourceName = "화자리스크롤",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "E MVP-Mini Boss P2000 Package(2023)",
+		identifiedResourceName = "화자리스크롤",
+		identifiedDescriptionName = {
+			"Cashpoint 4,000.",
+			"Donation MVP Token x4.",
+			"Donation Mini Token x1.",
+			"TCG Card x100.",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
 		},
