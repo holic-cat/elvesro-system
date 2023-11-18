@@ -90826,7 +90826,7 @@ tbl = {
 		unidentifiedResourceName = "세이프티링",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
 		identifiedDisplayName = "Donation MVP Token",
-		identifiedResourceName = "Unsealing_Token",
+		identifiedResourceName = "환영의각인",
 		identifiedDescriptionName = {
 			"can be use to exchange Elves MVP Boss Card"
 		},
