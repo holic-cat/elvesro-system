@@ -90979,7 +90979,45 @@ tbl = {
 		costume = false,
 		EffectID = 1186
 	},
-	
+	[70398] = {
+		unidentifiedDisplayName = "Bloody Knight Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Bloody Knight Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Add the chance of casting ^008800Level 1 Meteor Storm^000000 on an enemy when doing Physical Attack.",
+			"Int +10",
+			"Vit +20",
+			"_______________________",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70399] = {
+		unidentifiedDisplayName = "Chepet Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Chepet Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases effectiveness of Healing skills by 30% when they are cast by the wearer.",
+			"Int +5",,
+			"_______________________",
+			"Class:^6666CC Card^000000",
+			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
 }
 
 -- Now for a helper function because i hate repetitions 
