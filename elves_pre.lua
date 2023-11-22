@@ -84941,6 +84941,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Nullifies Gemstone requirement of certain skills.",
 			"Decreases After Skill Delay of all skills by 15%.",
+			"Increases effectiveness of Healing skills by 20% when they are cast by the wearer.",
 			"_______________________",
 			"^0000CCType:^000000 Card",
 			"^0000CCCompound on:^000000 Headgear",
@@ -91007,10 +91008,30 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Increases effectiveness of Healing skills by 30% when they are cast by the wearer.",
-			"Int +5",,
+			"Int +5",
 			"_______________________",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70400] = {
+		unidentifiedDisplayName = "Orc Baby Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Orc Baby Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Flee +50",
+			"Int +10",
+			"Luk +10",
+			"Increases resistance against ^777777Neutral^000000 elemental attack by 30%.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^008C99 Garment^000000",
 			"Weight:^009900 1^000000"
 		},
 		slotCount = 0,
