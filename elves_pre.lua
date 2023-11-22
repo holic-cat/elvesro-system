@@ -90967,7 +90967,7 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Luk +30",
-			"Vit +30",
+			"Vit +10",
 			"Inflict 30% Vulcan Arrow.",
 			"_______________________",
 			"Class:^6666CC Card^000000",
