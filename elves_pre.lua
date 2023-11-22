@@ -82447,7 +82447,7 @@ tbl = {
 		identifiedDisplayName = "[Elves] Angelring Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"MaxHP +30%",
+			"MaxHP +50%",
 			"Blesses an Armor with the ^777777Holy^000000 elemental.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Armor^000000",
@@ -90955,9 +90955,27 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 1991,
-		ClassNum = 99,
+		slotCount = 4,
+		ClassNum = 1991,
 		costume = false
+	},
+	[70397] = {
+		unidentifiedDisplayName = "Zealotus Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "[Elves] Zealotus Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Luk +30",
+			"Inflict 30% Vulcan Arrow.",
+			"Class:^6666CC Card^000000",
+			"Compound on:^6666CC Weapon^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
 	},
 	
 }
